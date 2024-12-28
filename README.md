@@ -1,1 +1,1 @@
-Türkçe yayın gösteren televizyon kanalları ve platformlardan kazınan içerikleri içermektedir. Yayın linkleri direkt olarak resmi yayıncıdan alınmıştır. Herhangi bir şekilde indirme veya tekrardan işleyip dağıtma söz konusu değildir.
+Türkçe yayın gösteren televizyon kanalları  Yayın linkleri
