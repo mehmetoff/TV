@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV1
+#EXTINF:-1 tvg-name="Now TV1" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV1
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XjJxUJJceLejmF_7IQzgiQ&e=1736364574
 
 #EXTINF:-1 tvg-id="fox.tr" tvg-name="TR • NOWTV FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="TR • ULUSAL",TR • NOWTV FHD
