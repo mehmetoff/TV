@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="TR • NOW TV 2" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 1 
+#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 1 
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1736407473&st=5qeTtg3q0bWOIq_YPZjn4A
 
-#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="TR • NOW TV 3" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 2
+#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV 2" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 2
 https://c.fulltvizle.com/fox/index.m3u8
 
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 3
+#EXTINF:-1 tvg-name="Now TV 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Now.tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/V 3TRORIGINALLOGO/now-tr.png" group-title="Genel",Now Tv 3
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
-#EXTINF:-1 tvg-name="Now TV1" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 4
+#EXTINF:-1 tvg-name="Now TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 4
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XjJxUJJceLejmF_7IQzgiQ&e=1736364574
 
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Genel",NTV
