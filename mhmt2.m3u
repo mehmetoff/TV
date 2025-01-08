@@ -4,11 +4,8 @@
 #EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NOW_TV_%28Turkey%29_wordmark-red.svg/1920px-NOW_TV_%28Turkey%29_wordmark-red.svg.png" group-title="Genel",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
-#EXTINF:-1 tvg-id="24.tr" tvg-name="TR • NOWTV HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="TR • ULUSAL",TR • NOWTV HD
-http://uyar.microcean.xyz:8080/Oxokaynak/PAdZ2khmC4/13
-
 #EXTINF:-1 tvg-id="fox.tr" tvg-name="TR • NOWTV FHD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="TR • ULUSAL",TR • NOWTV FHD
-http://uyar.microcean.xyz:8080/Oxokaynak/PAdZ2khmC4/6367
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1736407473&st=5qeTtg3q0bWOIq_YPZjn4A
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
