@@ -100,10 +100,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR • KANAL D HD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="TR • ULUSAL",TR • KANAL D HD
-http://uyar.microcean.xyz:8080/Oxokaynak/PAdZ2khmC4/100017
-
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR • KANAL D 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="TR • ULUSAL",TR • KANAL D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=01a5e2667139c860d7f8314f9d546f50
 
 # * » ÇizgiFilm « * #
