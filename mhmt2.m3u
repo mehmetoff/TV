@@ -1,7 +1,9 @@
 #EXTM3U
 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/hayatiptv/iptv/master/tr-EPG-guide.xml"
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="genel",Now TV
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkeypremium2.xml"
+#EXTINF:-1 tvg-name="Now TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
 #EXTINF:-1 tvg-name="Now TV1" tvg-language="Turkish" tvg-country="TR" tvg-id="Now tv1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 1
@@ -31,7 +33,7 @@ http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR • KANAL D 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="TR • ULUSAL",TR • KANAL D HD
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR • KANAL D 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="Genel",TR • KANAL D HD
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=01a5e2667139c860d7f8314f9d546f50
 
 #EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
@@ -46,10 +48,10 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1 tvg-name="Show TV 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV2" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV 2
+#EXTINF:-1 tvg-id="ShowTV2" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Genel",Show TV 2
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV2" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV 3
+#EXTINF:-1 tvg-id="ShowTV2" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Genel",Show TV 3
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=01a5e2667139c860d7f8314f9d546f50
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
@@ -63,7 +65,7 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="EÄŸlence",DMAX
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel",DMAX
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Belgesel_TRT" tvg-name="TRT Belgesel" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
@@ -85,7 +87,7 @@ https://y0.trgoalshls37.cfd/yayineu1.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Haber",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Haber",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="TR" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="Haber",TRT World
@@ -97,10 +99,10 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Haber Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-name="Haber Türk3" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk3" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Genel",Haber Türk3
+#EXTINF:-1 tvg-name="Haber Türk3" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk3" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk3
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=01a5e2667139c860d7f8314f9d546f50
 
-#EXTINF:-1 tvg-name="Haber Türk2" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Genel",Haber Türk2
+#EXTINF:-1 tvg-name="Haber Türk2" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk2
 http://stream.tvcdn.net/haber/haberturk.m3u8
 
 #EXTINF:-1 tvg-name="CNN Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
@@ -158,7 +160,6 @@ https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
 # * » KEKİKAKADEMİ-LİSTESİ « * #
 
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
-
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
