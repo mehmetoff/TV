@@ -67,13 +67,7 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 http://stream.tvcdn.net/eglence/dmax.m3u8
 
 #EXTINF:-1 tvg-id="Belgesel_TRT" tvg-name="TRT Belgesel" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="Belgesel_TLC" tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-id="Belgesel_DMax" tvg-name="DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="Belgesel_TGRT" tvg-name="TGRT Belgesel" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
 https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
