@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-name="Now.TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 4
 https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="Now.TV 5" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 5
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/hdNBXaMcoQ1ccwtkaB3smllN_hLakfhEOM2eLFJHihDxNzsPE1dzMoIRjVNn9F22wu5BH8tg1F4XEpnKBWSf5-58D1N9IS6OyUr22PsA2H-4Juv0Q4Ts2iXClhWbTIJykda21D3HupPfr9TOUzbbJmJvSO6Hcn5XSxuFq4ThY21VEpXisjHleN5Gvy5guxrg/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 1 
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=FlaDLyCc7a6iXEPGzPt53A&e=1736589303
 
