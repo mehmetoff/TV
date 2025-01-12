@@ -49,22 +49,6 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Genel",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 
-# * » Belgesel « * #
-
-#EXTINF:-1 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-name="DMax" tvg-language="Turkish" tvg-country="TR" tvg-id="Belgesel_DMax" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Belgesel",DMax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel",DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
-
-#EXTINF:-1 tvg-id="Belgesel_TRT" tvg-name="TRT Belgesel" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" group-title="Belgesel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="Belgesel_TGRT" tvg-name="TGRT Belgesel" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="Belgesel",TGRT Belgesel
-https://canli.ihlasdigitalassets.com/tgrtbelgesel.m3u8
 
 # * » SPOR « * #
 
