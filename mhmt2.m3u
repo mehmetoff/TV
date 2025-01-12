@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
+#EXTINF:-1 tvg-name="Now.TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 4
+https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 1 
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=FlaDLyCc7a6iXEPGzPt53A&e=1736589303
 
@@ -9,9 +12,6 @@ https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="Now.TV 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 3
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-
-#EXTINF:-1 tvg-name="Now.TV 4" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Genel",Now TV 4
-https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Genel",Sözcü TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
