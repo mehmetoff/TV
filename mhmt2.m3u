@@ -22,34 +22,6 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Genel",Halk TV
 http://stream.tvcdn.net/haber/halk-tv.m3u8
 
-#EXTINF:-1 tvg-name="KanalD.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="Genel",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR • KANAL D 1" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/kanal-d-tr.png" group-title="Genel",TR • KANAL D HD
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3&ppid=01a5e2667139c860d7f8314f9d546f50
-
-#EXTINF:-1 tvg-name="StarTV.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Genel",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-name="ATV.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=PCqJ_svc7K1zmOEYfcX3Mg&e=1736577627&ppid=01a5e2667139c860d7f8314f9d546f50&gdpr=0
-
-#EXTINF:-1 tvg-name="ATV.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
-
-#EXTINF:-1 tvg-name="ShowTV.tr 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV2" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Genel",Show TV 2
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-
-#EXTINF:-1 tvg-name="TV.tr8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-
-#EXTINF:-1 tvg-name="NTV.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_NTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264" group-title="Genel",NTV
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
-
 # * » SPOR « * #
 
 #EXTINF:-1 tvg-name="Euro Sport" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_EuroSport" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",Euro Sport
