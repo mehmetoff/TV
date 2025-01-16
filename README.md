@@ -8,7 +8,7 @@ https://bit.ly/sinem3u
 
 https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/refs/heads/main/Kanallar/KekikAkademi.m3u
 
-https://raw.githubusercontent.com/mehmetoff/TV/refs/heads/main/vavoo
+https://raw.githubusercontent.com/mehmetoff/TV/refs/heads/main/......
 
 
 
