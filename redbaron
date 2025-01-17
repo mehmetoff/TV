@@ -104,20 +104,13 @@ http://stream.tvcdn.net/eglence/tlc.m3u8
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="DeaTHLesS KRAL",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/871add1b-5165-4aa1-9799-c93185f8841d.png" group-title="DeaTHLesS KRAL",Kultur sanat TV
-http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="DeaTHLesS KRAL",Belgesel TV
 http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b46f11bf-bd55-4203-974c-ac36d14dc7d3.png" group-title="DeaTHLesS KRAL",sa likli Gunler TV
-http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="DeaTHLesS KRAL",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
-#EXTINF:-1 tvg-id="TRTspor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="DeaTHLesS KRAL",TRT spor
-http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:-1 tvg-id="TRTsporYildiz.tr" tvg-logo="http://assets.tvcdn.net/27f74187-ef2a-4928-9515-77422081119c.png" group-title="DeaTHLesS KRAL",TRT spor Yildiz
-http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="http://assets.tvcdn.net/192450f9-3d32-4754-967f-7c8128934963.png" group-title="DeaTHLesS KRAL",TRT 3 spor
-http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="DeaTHLesS KRAL",TRT Belgesel
@@ -126,8 +119,7 @@ http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="DeaTHLesS KRAL",Yaban TV
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
-#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="http://assets.tvcdn.net/dbbbce1c-9d67-4d5a-9616-fc2458305329.png" group-title="DeaTHLesS KRAL",Agro TV
-http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="DeaTHLesS KRAL",CiftCi TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="DeaTHLesS KRAL",Tarim TV
@@ -140,8 +132,7 @@ http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="DeaTHLesS KRAL",TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="DeaTHLesS KRAL",TRT Diyanet Cocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="DeaTHLesS KRAL",Minika Cocuk
 http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="DeaTHLesS KRAL",Minika Go
@@ -150,8 +141,7 @@ http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/255087c9-0b06-471a-8c46-502c825a4797.jpg" group-title="DeaTHLesS KRAL",Bilsem Bizim TV
 http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98504028-b6b2-4651-9d10-1437ef368f5f.png" group-title="DeaTHLesS KRAL",Diyanet Cocuk
-http://stream.tvcdn.net/cocuk-egitim/diyanet-cocuk.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="DeaTHLesS KRAL",Cocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="DeaTHLesS KRAL",Cizgi Film TV
