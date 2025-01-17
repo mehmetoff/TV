@@ -1,5 +1,6 @@
 #EXTM3U
 
+####SPOR####
 
 #EXTINF:-1 tvg-id="2078862937" tvg-name=" EUROSPORT 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 1 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2078862937.m3u8
@@ -7,7 +8,9 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=2078862937.m3u8
 #EXTINF:-1 tvg-id="4117227962" tvg-name=" EUROSPORT 2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 2 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4117227962.m3u8
 
-#EXTINF:-1 tvg-id="2325261286" tvg-name="TR | 4K TR: ATV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal", ATV HD (1)
+####ULUSAL####
+
+#EXTINF:-1 tvg-id="2325261286" tvg-name="TR | 4K TR: ATV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE", ATV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2325261286.m3u8
 
 #EXTINF:-1 tvg-id="2019055277" tvg-name="TR | 4K TR: A2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",A2 HD (1)
@@ -18,23 +21,23 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=805689873.m3u8
 
 #EXTINF:-1 tvg-id="2687017841" tvg-name="TR | 4K TR: FLASH TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal", FLASH TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2687017841.m3u8
-#EXTINF:-1 tvg-id="1092667959" tvg-name="TR | 4K TR: KANAL 7 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",KANAL 7 HD (1)
+#EXTINF:-1 tvg-id="1092667959" tvg-name="TR | 4K TR: KANAL 7 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",KANAL 7 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1092667959.m3u8
-#EXTINF:-1 tvg-id="1677679684" tvg-name="TR | 4K TR: KANAL D HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal", KANAL D HD (1)
+#EXTINF:-1 tvg-id="1677679684" tvg-name="TR | 4K TR: KANAL D HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE", KANAL D HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1677679684.m3u8
-#EXTINF:-1 tvg-id="2578197593" tvg-name="TR | 4K TR: NOW HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",NOW HD (1)
+#EXTINF:-1 tvg-id="2578197593" tvg-name="TR | 4K TR: NOW HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",NOW HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2578197593.m3u8
-#EXTINF:-1 tvg-id="879588960" tvg-name="TR | 4K TR: SHOW TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW TV HD (1)
+#EXTINF:-1 tvg-id="879588960" tvg-name="TR | 4K TR: SHOW TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",SHOW TV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=879588960.m3u8
-#EXTINF:-1 tvg-id="2192971293" tvg-name="TR | 4K TR: STAR TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",STAR TV HD (1)
+#EXTINF:-1 tvg-id="2192971293" tvg-name="TR | 4K TR: STAR TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",STAR TV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2192971293.m3u8
 #EXTINF:-1 tvg-id="1917502631" tvg-name="TR | 4K TR: TEVE2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TEVE2 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1917502631.m3u8
-#EXTINF:-1 tvg-id="1762199258" tvg-name="TR | 4K TR: TRT 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 1 HD (1)
+#EXTINF:-1 tvg-id="1762199258" tvg-name="TR | 4K TR: TRT 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",TRT 1 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1762199258.m3u8
 #EXTINF:-1 tvg-id="2990410352" tvg-name="TR | 4K TR: TRT AVAZ (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT AVAZ (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2990410352.m3u8
-#EXTINF:-1 tvg-id="2693299013" tvg-name="TR | 4K TR: TV8 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 HD (1)
+#EXTINF:-1 tvg-id="2693299013" tvg-name="TR | 4K TR: TV8 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",TV8 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2693299013.m3u8
 
 #EXTINF:-1 tvg-id="455930425" tvg-name="TR | ATV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",ATV (6)
@@ -191,263 +194,267 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=14092376.m3u8
 https://vavox.duckdns.org/xbyte.m3u8/?id=1908265816.m3u8
 #EXTINF:-1 tvg-id="3472698776" tvg-name="TR | TV 8.5 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV 8.5 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3472698776.m3u8
-#EXTINF:-1 tvg-id="2159436641" tvg-name="TR | TV 85 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV 85 (7)
+#EXTINF:-1 tvg-id="2159436641" tvg-name="TR | TV 85 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV 85 (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2159436641.m3u8
-#EXTINF:-1 tvg-id="2412205937" tvg-name="TR | TV8 5 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV8 5 RAW (1)
+#EXTINF:-1 tvg-id="2412205937" tvg-name="TR | TV8 5 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 5 RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2412205937.m3u8
-#EXTINF:-1 tvg-id="3849481299" tvg-name="TR | TV8 FHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV8 FHD (1)
+#EXTINF:-1 tvg-id="3849481299" tvg-name="TR | TV8 FHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 FHD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3849481299.m3u8
-#EXTINF:-1 tvg-id="1702470161" tvg-name="TR | TV8 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV8 HD (1)
+#EXTINF:-1 tvg-id="1702470161" tvg-name="TR | TV8 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1702470161.m3u8
-#EXTINF:-1 tvg-id="1991010324" tvg-name="TR | TV8 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV8 RAW (1)
+#EXTINF:-1 tvg-id="1991010324" tvg-name="TR | TV8 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1991010324.m3u8
-#EXTINF:-1 tvg-id="208162889" tvg-name="TR | TV8 SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV8 SD (1)
+#EXTINF:-1 tvg-id="208162889" tvg-name="TR | TV8 SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV8 SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=208162889.m3u8
-#EXTINF:-1 tvg-id="1290434890" tvg-name="TR | EURO D (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EURO D (1)
+#EXTINF:-1 tvg-id="1290434890" tvg-name="TR | EURO D (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",EURO D (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1290434890.m3u8
-#EXTINF:-1 tvg-id="3358854668" tvg-name="TR | EURO D (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EURO D (6)
+#EXTINF:-1 tvg-id="3358854668" tvg-name="TR | EURO D (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",EURO D (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3358854668.m3u8
-#EXTINF:-1 tvg-id="2784530383" tvg-name="TR | EURO D (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EURO D (7)
+#EXTINF:-1 tvg-id="2784530383" tvg-name="TR | EURO D (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",EURO D (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2784530383.m3u8
-#EXTINF:-1 tvg-id="1827094680" tvg-name="TR | EURO STAR (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EURO STAR (1)
+#EXTINF:-1 tvg-id="1827094680" tvg-name="TR | EURO STAR (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal", EURO STAR (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1827094680.m3u8
-#EXTINF:-1 tvg-id="3814521935" tvg-name="TR | EURO STAR (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EURO STAR (7)
+#EXTINF:-1 tvg-id="3814521935" tvg-name="TR | EURO STAR (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",EURO STAR (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3814521935.m3u8
-#EXTINF:-1 tvg-id="2147614081" tvg-name="TR | EUROSTAR (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | EUROSTAR (6)
+#EXTINF:-1 tvg-id="2147614081" tvg-name="TR | EUROSTAR (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",EUROSTAR (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2147614081.m3u8
-#EXTINF:-1 tvg-id="916532487" tvg-name="TR | KANAL 7 AVRUPA (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | KANAL 7 AVRUPA (6)
+#EXTINF:-1 tvg-id="916532487" tvg-name="TR | KANAL 7 AVRUPA (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",KANAL 7 AVRUPA (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=916532487.m3u8
-#EXTINF:-1 tvg-id="498645977" tvg-name="TR | KANAL 7 AVRUPA (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | KANAL 7 AVRUPA (7)
+#EXTINF:-1 tvg-id="498645977" tvg-name="TR | KANAL 7 AVRUPA (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",KANAL 7 AVRUPA (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=498645977.m3u8
-#EXTINF:-1 tvg-id="3264983364" tvg-name="TR | KANAL 7 EUROPA (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | KANAL 7 EUROPA (1)
+#EXTINF:-1 tvg-id="3264983364" tvg-name="TR | KANAL 7 EUROPA (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",KANAL 7 EUROPA (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3264983364.m3u8
-#EXTINF:-1 tvg-id="1495761327" tvg-name="TR | SHOW MAX (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOW MAX (6)
+#EXTINF:-1 tvg-id="1495761327" tvg-name="TR | SHOW MAX (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW MAX (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1495761327.m3u8
-#EXTINF:-1 tvg-id="2196278652" tvg-name="TR | SHOW MAX (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOW MAX (7)
+#EXTINF:-1 tvg-id="2196278652" tvg-name="TR | SHOW MAX (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW MAX (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2196278652.m3u8
-#EXTINF:-1 tvg-id="605929821" tvg-name="TR | SHOW T RK EUROPA (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOW T RK EUROPA (1)
+#EXTINF:-1 tvg-id="605929821" tvg-name="TR | SHOW T RK EUROPA (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW T RK EUROPA (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=605929821.m3u8
-#EXTINF:-1 tvg-id="2009772533" tvg-name="TR | SHOW TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOW TURK (6)
+#EXTINF:-1 tvg-id="2009772533" tvg-name="TR | SHOW TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW TURK (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2009772533.m3u8
-#EXTINF:-1 tvg-id="1880270561" tvg-name="TR | SHOW TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOW TURK (7)
+#EXTINF:-1 tvg-id="1880270561" tvg-name="TR | SHOW TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW TURK (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1880270561.m3u8
-#EXTINF:-1 tvg-id="1197572527" tvg-name="TR | SHOWMAX (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | SHOWMAX (1)
+#EXTINF:-1 tvg-id="1197572527" tvg-name="TR | SHOWMAX (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOWMAX (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1197572527.m3u8
-#EXTINF:-1 tvg-id="268729462" tvg-name="TR | TGRT EU (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TGRT EU (6)
+#EXTINF:-1 tvg-id="268729462" tvg-name="TR | TGRT EU (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TGRT EU (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=268729462.m3u8
-#EXTINF:-1 tvg-id="182286475" tvg-name="TR | TGRT EU (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TGRT EU (7)
+#EXTINF:-1 tvg-id="182286475" tvg-name="TR | TGRT EU (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TGRT EU (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=182286475.m3u8
-#EXTINF:-1 tvg-id="137677598" tvg-name="TR | TV 8 INT (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV 8 INT (1)
+#EXTINF:-1 tvg-id="137677598" tvg-name="TR | TV 8 INT (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV 8 INT (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=137677598.m3u8
-#EXTINF:-1 tvg-id="1764745585" tvg-name="TR | TV 8 INT (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV 8 INT (7)
+#EXTINF:-1 tvg-id="1764745585" tvg-name="TR | TV 8 INT (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV 8 INT (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1764745585.m3u8
-#EXTINF:-1 tvg-id="3546432682" tvg-name="TR | TV 8 INTERNATIONAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TR | TV 8 INTERNATIONAL (6)
+#EXTINF:-1 tvg-id="3546432682" tvg-name="TR | TV 8 INTERNATIONAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TV 8 INTERNATIONAL (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3546432682.m3u8
-#EXTINF:-1 tvg-id="1702937932" tvg-name="TR | 24 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 24 (7)
+
+####HABER####
+
+#EXTINF:-1 tvg-id="1702937932" tvg-name="TR | 24 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",24 (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1702937932.m3u8
-#EXTINF:-1 tvg-id="3828793616" tvg-name="TR | 24 HABER HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 24 HABER HD+ SD (1)
+#EXTINF:-1 tvg-id="3828793616" tvg-name="TR | 24 HABER HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",24 HABER HD+ SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3828793616.m3u8
-#EXTINF:-1 tvg-id="536029186" tvg-name="TR | 24 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 24 RAW (1)
+#EXTINF:-1 tvg-id="536029186" tvg-name="TR | 24 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",24 RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=536029186.m3u8
-#EXTINF:-1 tvg-id="3822901239" tvg-name="TR | 24 TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 24 TV (6)
+#EXTINF:-1 tvg-id="3822901239" tvg-name="TR | 24 TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",24 TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3822901239.m3u8
-#EXTINF:-1 tvg-id="865410951" tvg-name="TR | 360 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 360 (6)
+#EXTINF:-1 tvg-id="865410951" tvg-name="TR | 360 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",360 (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=865410951.m3u8
-#EXTINF:-1 tvg-id="1651455199" tvg-name="TR | 360 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 360 (7)
+#EXTINF:-1 tvg-id="1651455199" tvg-name="TR | 360 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",360 (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1651455199.m3u8
-#EXTINF:-1 tvg-id="1893598000" tvg-name="TR | 360 PLUS (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 360 PLUS (7)
+#EXTINF:-1 tvg-id="1893598000" tvg-name="TR | 360 PLUS (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",360 PLUS (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1893598000.m3u8
-#EXTINF:-1 tvg-id="1702645191" tvg-name="TR | 360 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 360 RAW (1)
+#EXTINF:-1 tvg-id="1702645191" tvg-name="TR | 360 RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",360 RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1702645191.m3u8
-#EXTINF:-1 tvg-id="1998168122" tvg-name="TR | 4K TR: 24 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: 24 HD (1)
+#EXTINF:-1 tvg-id="1998168122" tvg-name="TR | 4K TR: 24 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",24 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1998168122.m3u8
-#EXTINF:-1 tvg-id="473300573" tvg-name="TR | 4K TR: 360 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: 360 HD (1)
+#EXTINF:-1 tvg-id="473300573" tvg-name="TR | 4K TR: 360 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",360 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=473300573.m3u8
 
-#EXTINF:-1 tvg-id="2056768647" tvg-name="TR | 4K TR: CNN T RK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: CNN T RK HD (1)
+#EXTINF:-1 tvg-id="2056768647" tvg-name="TR | 4K TR: CNN T RK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", CNN T RK HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2056768647.m3u8
 
-#EXTINF:-1 tvg-id="1196626387" tvg-name="TR | 4K TR: HABER GLOBAL HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: HABER GLOBAL HD (1)
+#EXTINF:-1 tvg-id="1196626387" tvg-name="TR | 4K TR: HABER GLOBAL HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", HABER GLOBAL HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1196626387.m3u8
-#EXTINF:-1 tvg-id="4253369376" tvg-name="TR | 4K TR: HABERT RK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: HABERT RK HD (1)
+#EXTINF:-1 tvg-id="4253369376" tvg-name="TR | 4K TR: HABERT RK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", HABERT RK HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4253369376.m3u8
-#EXTINF:-1 tvg-id="1320391955" tvg-name="TR | 4K TR: HALK TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: HALK TV (1)
+#EXTINF:-1 tvg-id="1320391955" tvg-name="TR | 4K TR: HALK TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", HALK TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1320391955.m3u8
 
-#EXTINF:-1 tvg-id="2073292907" tvg-name="TR | 4K TR: NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: NTV HD (1)
+#EXTINF:-1 tvg-id="2073292907" tvg-name="TR | 4K TR: NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2073292907.m3u8
-#EXTINF:-1 tvg-id="960578312" tvg-name="TR | 4K TR: SOZCU TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: SOZCU TV (1)
+#EXTINF:-1 tvg-id="960578312" tvg-name="TR | 4K TR: SOZCU TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SOZCU TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=960578312.m3u8
-#EXTINF:-1 tvg-id="1907154704" tvg-name="TR | 4K TR: TGRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TGRT HABER HD (1)
+#EXTINF:-1 tvg-id="1907154704" tvg-name="TR | 4K TR: TGRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1907154704.m3u8
-#EXTINF:-1 tvg-id="4179661802" tvg-name="TR | 4K TR: TELE1 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TELE1 (1)
+#EXTINF:-1 tvg-id="4179661802" tvg-name="TR | 4K TR: TELE1 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TELE1 (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4179661802.m3u8
-#EXTINF:-1 tvg-id="603651638" tvg-name="TR | 4K TR: TRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TRT HABER HD (1)
+#EXTINF:-1 tvg-id="603651638" tvg-name="TR | 4K TR: TRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=603651638.m3u8
-#EXTINF:-1 tvg-id="3508477481" tvg-name="TR | 4K TR: TRT T RK (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TRT T RK (1)
+#EXTINF:-1 tvg-id="3508477481" tvg-name="TR | 4K TR: TRT T RK (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT T RK (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3508477481.m3u8
-#EXTINF:-1 tvg-id="1738739277" tvg-name="TR | 4K TR: TVNET HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TVNET HD (1)
+#EXTINF:-1 tvg-id="1738739277" tvg-name="TR | 4K TR: TVNET HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TVNET HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1738739277.m3u8
-#EXTINF:-1 tvg-id="3760496907" tvg-name="TR | 4K TR: TV100 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | 4K TR: TV100 (1)
+#EXTINF:-1 tvg-id="3760496907" tvg-name="TR | 4K TR: TV100 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TV100 (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3760496907.m3u8
 
 
-#EXTINF:-1 tvg-id="2868318534" tvg-name="TR | CNN T RK HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN T RK HD+ SD (1)
+#EXTINF:-1 tvg-id="2868318534" tvg-name="TR | CNN T RK HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN T RK HD+ SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2868318534.m3u8
-#EXTINF:-1 tvg-id="2311285186" tvg-name="TR | CNN T RK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN T RK HEVC (1)
+#EXTINF:-1 tvg-id="2311285186" tvg-name="TR | CNN T RK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN T RK HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2311285186.m3u8
-#EXTINF:-1 tvg-id="3583754923" tvg-name="TR | CNN T RK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN T RK RAW (1)
+#EXTINF:-1 tvg-id="3583754923" tvg-name="TR | CNN T RK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN T RK RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3583754923.m3u8
-#EXTINF:-1 tvg-id="413381526" tvg-name="TR | CNN TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN TURK (6)
+#EXTINF:-1 tvg-id="413381526" tvg-name="TR | CNN TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN TURK (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=413381526.m3u8
-#EXTINF:-1 tvg-id="3278683973" tvg-name="TR | CNN TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN TURK (7)
+#EXTINF:-1 tvg-id="3278683973" tvg-name="TR | CNN TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN TURK (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3278683973.m3u8
-#EXTINF:-1 tvg-id="4273153967" tvg-name="TR | CNN TURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | CNN TURK HD (1)
+#EXTINF:-1 tvg-id="4273153967" tvg-name="TR | CNN TURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",CNN TURK HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4273153967.m3u8
 
-#EXTINF:-1 tvg-id="3806979011" tvg-name="TR | FLASH HABER TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | FLASH HABER TV (6)
+#EXTINF:-1 tvg-id="3806979011" tvg-name="TR | FLASH HABER TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",FLASH HABER TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3806979011.m3u8
-#EXTINF:-1 tvg-id="1224377838" tvg-name="TR | GLOBAL HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | GLOBAL HABER HD (1)
+#EXTINF:-1 tvg-id="1224377838" tvg-name="TR | GLOBAL HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",GLOBAL HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1224377838.m3u8
-#EXTINF:-1 tvg-id="2923004946" tvg-name="TR | HABER 61 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER 61 (6)
+#EXTINF:-1 tvg-id="2923004946" tvg-name="TR | HABER 61 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER 61 (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2923004946.m3u8
-#EXTINF:-1 tvg-id="652210082" tvg-name="TR | HABER GLOBAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER GLOBAL (6)
+#EXTINF:-1 tvg-id="652210082" tvg-name="TR | HABER GLOBAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER GLOBAL (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=652210082.m3u8
-#EXTINF:-1 tvg-id="2483036808" tvg-name="TR | HABER GLOBAL (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER GLOBAL (7)
+#EXTINF:-1 tvg-id="2483036808" tvg-name="TR | HABER GLOBAL (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER GLOBAL (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2483036808.m3u8
-#EXTINF:-1 tvg-id="4069774068" tvg-name="TR | HABER GLOBAL HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER GLOBAL HD (1)
+#EXTINF:-1 tvg-id="4069774068" tvg-name="TR | HABER GLOBAL HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", HABER GLOBAL HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4069774068.m3u8
-#EXTINF:-1 tvg-id="4144668031" tvg-name="TR | HABER GLOBAL HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER GLOBAL HD+ SD (1)
+#EXTINF:-1 tvg-id="4144668031" tvg-name="TR | HABER GLOBAL HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER GLOBAL HD+ SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4144668031.m3u8
-#EXTINF:-1 tvg-id="3225335454" tvg-name="TR | HABER T RK HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER T RK HD+ SD (1)
+#EXTINF:-1 tvg-id="3225335454" tvg-name="TR | HABER T RK HD+ SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER T RK HD+ SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3225335454.m3u8
-#EXTINF:-1 tvg-id="464378170" tvg-name="TR | HABER TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER TURK (7)
+#EXTINF:-1 tvg-id="464378170" tvg-name="TR | HABER TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER TURK (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=464378170.m3u8
-#EXTINF:-1 tvg-id="2360854158" tvg-name="TR | HABER TURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER TURK HD (1)
+#EXTINF:-1 tvg-id="2360854158" tvg-name="TR | HABER TURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER TURK HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2360854158.m3u8
-#EXTINF:-1 tvg-id="1857563183" tvg-name="TR | HABER TURK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABER TURK HEVC (1)
+#EXTINF:-1 tvg-id="1857563183" tvg-name="TR | HABER TURK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABER TURK HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1857563183.m3u8
-#EXTINF:-1 tvg-id="2402772380" tvg-name="TR | HABERTURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABERTURK (6)
+#EXTINF:-1 tvg-id="2402772380" tvg-name="TR | HABERTURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABERTURK (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2402772380.m3u8
-#EXTINF:-1 tvg-id="1470199900" tvg-name="TR | HABERTURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABERTURK HD (1)
+#EXTINF:-1 tvg-id="1470199900" tvg-name="TR | HABERTURK HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABERTURK HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1470199900.m3u8
-#EXTINF:-1 tvg-id="2129890787" tvg-name="TR | HABERTURK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HABERTURK RAW (1)
+#EXTINF:-1 tvg-id="2129890787" tvg-name="TR | HABERTURK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HABERTURK RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2129890787.m3u8
-#EXTINF:-1 tvg-id="4148513719" tvg-name="TR | HALK TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HALK TV (6)
+#EXTINF:-1 tvg-id="4148513719" tvg-name="TR | HALK TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HALK TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4148513719.m3u8
-#EXTINF:-1 tvg-id="3986444106" tvg-name="TR | HALK TV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HALK TV (7)
+#EXTINF:-1 tvg-id="3986444106" tvg-name="TR | HALK TV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HALK TV (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3986444106.m3u8
-#EXTINF:-1 tvg-id="1771999100" tvg-name="TR | HALK TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HALK TV HD (1)
+#EXTINF:-1 tvg-id="1771999100" tvg-name="TR | HALK TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HALK TV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1771999100.m3u8
-#EXTINF:-1 tvg-id="9403684" tvg-name="TR | HALK TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | HALK TV SD (1)
+#EXTINF:-1 tvg-id="9403684" tvg-name="TR | HALK TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",HALK TV SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=9403684.m3u8
-#EXTINF:-1 tvg-id="2146960844" tvg-name="TR | KANAL 24 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | KANAL 24 (7)
+#EXTINF:-1 tvg-id="2146960844" tvg-name="TR | KANAL 24 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",KANAL 24 (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2146960844.m3u8
-#EXTINF:-1 tvg-id="4179564147" tvg-name="TR | KANAL 24 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | KANAL 24 HD (1)
+#EXTINF:-1 tvg-id="4179564147" tvg-name="TR | KANAL 24 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",KANAL 24 HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4179564147.m3u8
-#EXTINF:-1 tvg-id="3357052453" tvg-name="TR | KANAL 360 HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | KANAL 360 HEVC (1)
+#EXTINF:-1 tvg-id="3357052453" tvg-name="TR | KANAL 360 HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",KANAL 360 HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3357052453.m3u8
-#EXTINF:-1 tvg-id="3488532244" tvg-name="TR | KANAL 360 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | KANAL 360 UHD (1)
+#EXTINF:-1 tvg-id="3488532244" tvg-name="TR | KANAL 360 UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",KANAL 360 UHD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3488532244.m3u8
 
 
-#EXTINF:-1 tvg-id="2230968262" tvg-name="TR | MEDYA HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | MEDYA HABER (6)
+#EXTINF:-1 tvg-id="2230968262" tvg-name="TR | MEDYA HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",MEDYA HABER (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2230968262.m3u8
-#EXTINF:-1 tvg-id="3982787280" tvg-name="TR | NTV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV (6)
+#EXTINF:-1 tvg-id="3982787280" tvg-name="TR | NTV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3982787280.m3u8
-#EXTINF:-1 tvg-id="3164514696" tvg-name="TR | NTV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV (7)
+#EXTINF:-1 tvg-id="3164514696" tvg-name="TR | NTV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3164514696.m3u8
-#EXTINF:-1 tvg-id="1237310964" tvg-name="TR | NTV HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV HABER (7)
+#EXTINF:-1 tvg-id="1237310964" tvg-name="TR | NTV HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", NTV HABER (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1237310964.m3u8
-#EXTINF:-1 tvg-id="1220417659" tvg-name="TR | NTV HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV HABER HD (1)
+#EXTINF:-1 tvg-id="1220417659" tvg-name="TR | NTV HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", NTV HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1220417659.m3u8
-#EXTINF:-1 tvg-id="1712849933" tvg-name="TR | NTV HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV HABER HEVC (1)
+#EXTINF:-1 tvg-id="1712849933" tvg-name="TR | NTV HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV HABER HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1712849933.m3u8
-#EXTINF:-1 tvg-id="3194104127" tvg-name="TR | NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV HD (1)
+#EXTINF:-1 tvg-id="3194104127" tvg-name="TR | NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3194104127.m3u8
-#EXTINF:-1 tvg-id="2862710352" tvg-name="TR | NTV RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV RAW (1)
+#EXTINF:-1 tvg-id="2862710352" tvg-name="TR | NTV RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2862710352.m3u8
-#EXTINF:-1 tvg-id="3614694247" tvg-name="TR | NTV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | NTV SD (1)
+#EXTINF:-1 tvg-id="3614694247" tvg-name="TR | NTV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3614694247.m3u8
-#EXTINF:-1 tvg-id="2466905700" tvg-name="TR | S ZC SZC TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | S ZC SZC TV (1)
+#EXTINF:-1 tvg-id="2466905700" tvg-name="TR | S ZC SZC TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", SZC TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2466905700.m3u8
-#EXTINF:-1 tvg-id="1098172953" tvg-name="TR | SOZCU SZC TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | SOZCU SZC TV SD (1)
+#EXTINF:-1 tvg-id="1098172953" tvg-name="TR | SOZCU SZC TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SZC TV SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1098172953.m3u8
-#EXTINF:-1 tvg-id="2036794972" tvg-name="TR | SZC (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | SZC (6)
+#EXTINF:-1 tvg-id="2036794972" tvg-name="TR | SZC (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SZC (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2036794972.m3u8
-#EXTINF:-1 tvg-id="1770699644" tvg-name="TR | TBMM TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TBMM TV (6)
+#EXTINF:-1 tvg-id="1770699644" tvg-name="TR | TBMM TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TBMM TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1770699644.m3u8
-#EXTINF:-1 tvg-id="3560292869" tvg-name="TR | TELE 1 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TELE 1 (1)
+#EXTINF:-1 tvg-id="3560292869" tvg-name="TR | TELE 1 (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TELE 1 (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3560292869.m3u8
-#EXTINF:-1 tvg-id="1357624643" tvg-name="TR | TELE 1 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TELE 1 (6)
+#EXTINF:-1 tvg-id="1357624643" tvg-name="TR | TELE 1 (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TELE 1 (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1357624643.m3u8
-#EXTINF:-1 tvg-id="1025979520" tvg-name="TR | TELE 1 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TELE 1 (7)
+#EXTINF:-1 tvg-id="1025979520" tvg-name="TR | TELE 1 (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TELE 1 (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1025979520.m3u8
-#EXTINF:-1 tvg-id="3382394739" tvg-name="TR | TELE 1 SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TELE 1 SD (1)
+#EXTINF:-1 tvg-id="3382394739" tvg-name="TR | TELE 1 SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TELE 1 SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3382394739.m3u8
-#EXTINF:-1 tvg-id="1718429323" tvg-name="TR | TGRT HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TGRT HABER (6)
+#EXTINF:-1 tvg-id="1718429323" tvg-name="TR | TGRT HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1718429323.m3u8
-#EXTINF:-1 tvg-id="1684631959" tvg-name="TR | TGRT HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TGRT HABER (7)
+#EXTINF:-1 tvg-id="1684631959" tvg-name="TR | TGRT HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1684631959.m3u8
-#EXTINF:-1 tvg-id="2814392458" tvg-name="TR | TGRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TGRT HABER HD (1)
+#EXTINF:-1 tvg-id="2814392458" tvg-name="TR | TGRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2814392458.m3u8
-#EXTINF:-1 tvg-id="1355881287" tvg-name="TR | TGRT HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TGRT HABER HEVC (1)
+#EXTINF:-1 tvg-id="1355881287" tvg-name="TR | TGRT HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1355881287.m3u8
-#EXTINF:-1 tvg-id="3562740054" tvg-name="TR | TGRT HABER UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TGRT HABER UHD (1)
+#EXTINF:-1 tvg-id="3562740054" tvg-name="TR | TGRT HABER UHD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER UHD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3562740054.m3u8
-#EXTINF:-1 tvg-id="2003703357" tvg-name="TR | TRT HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT HABER (6)
+#EXTINF:-1 tvg-id="2003703357" tvg-name="TR | TRT HABER (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2003703357.m3u8
-#EXTINF:-1 tvg-id="1890976041" tvg-name="TR | TRT HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT HABER (7)
+#EXTINF:-1 tvg-id="1890976041" tvg-name="TR | TRT HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1890976041.m3u8
-#EXTINF:-1 tvg-id="2579401878" tvg-name="TR | TRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT HABER HD (1)
+#EXTINF:-1 tvg-id="2579401878" tvg-name="TR | TRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2579401878.m3u8
-#EXTINF:-1 tvg-id="2057965553" tvg-name="TR | TRT HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT HABER HEVC (1)
+#EXTINF:-1 tvg-id="2057965553" tvg-name="TR | TRT HABER HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2057965553.m3u8
-#EXTINF:-1 tvg-id="93108665" tvg-name="TR | TRT HABER RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT HABER RAW (1)
+#EXTINF:-1 tvg-id="93108665" tvg-name="TR | TRT HABER RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT HABER RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=93108665.m3u8
-#EXTINF:-1 tvg-id="4098093256" tvg-name="TR | TRT TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT TURK (6)
+#EXTINF:-1 tvg-id="4098093256" tvg-name="TR | TRT TURK (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT TURK (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4098093256.m3u8
-#EXTINF:-1 tvg-id="797768731" tvg-name="TR | TRT TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT TURK (7)
+#EXTINF:-1 tvg-id="797768731" tvg-name="TR | TRT TURK (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT TURK (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=797768731.m3u8
-#EXTINF:-1 tvg-id="1619096863" tvg-name="TR | TRT TURK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT TURK HEVC (1)
+#EXTINF:-1 tvg-id="1619096863" tvg-name="TR | TRT TURK HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT TURK HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1619096863.m3u8
-#EXTINF:-1 tvg-id="4095879853" tvg-name="TR | TRT TURK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT TURK RAW (1)
+#EXTINF:-1 tvg-id="4095879853" tvg-name="TR | TRT TURK RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT TURK RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4095879853.m3u8
-#EXTINF:-1 tvg-id="3203147403" tvg-name="TR | TRT WORLD (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT WORLD (6)
+#EXTINF:-1 tvg-id="3203147403" tvg-name="TR | TRT WORLD (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT WORLD (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3203147403.m3u8
-#EXTINF:-1 tvg-id="3107205535" tvg-name="TR | TRT WORLD (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT WORLD (7)
+#EXTINF:-1 tvg-id="3107205535" tvg-name="TR | TRT WORLD (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT WORLD (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3107205535.m3u8
-#EXTINF:-1 tvg-id="3985615117" tvg-name="TR | TRT WORLD HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT WORLD HEVC (1)
+#EXTINF:-1 tvg-id="3985615117" tvg-name="TR | TRT WORLD HEVC (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT WORLD HEVC (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3985615117.m3u8
-#EXTINF:-1 tvg-id="4076064178" tvg-name="TR | TRT WORLD RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TRT WORLD RAW (1)
+#EXTINF:-1 tvg-id="4076064178" tvg-name="TR | TRT WORLD RAW (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TRT WORLD RAW (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=4076064178.m3u8
-#EXTINF:-1 tvg-id="1225673773" tvg-name="TR | TV NET (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TV NET (6)
+#EXTINF:-1 tvg-id="1225673773" tvg-name="TR | TV NET (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TV NET (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1225673773.m3u8
-#EXTINF:-1 tvg-id="1221661755" tvg-name="TR | TVNET (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TVNET (7)
+#EXTINF:-1 tvg-id="1221661755" tvg-name="TR | TVNET (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TVNET (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1221661755.m3u8
-#EXTINF:-1 tvg-id="1182480796" tvg-name="TR | TVNET HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TVNET HD (1)
+#EXTINF:-1 tvg-id="1182480796" tvg-name="TR | TVNET HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TVNET HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1182480796.m3u8
-#EXTINF:-1 tvg-id="2012038243" tvg-name="TR | TÜRKHABER TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | TÜRKHABER TV (6)
+#EXTINF:-1 tvg-id="2012038243" tvg-name="TR | TÜRKHABER TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TÜRKHABER TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2012038243.m3u8
-#EXTINF:-1 tvg-id="216740557" tvg-name="TR | ULKE TV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULKE TV (7)
+#EXTINF:-1 tvg-id="216740557" tvg-name="TR | ULKE TV (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULKE TV (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=216740557.m3u8
-#EXTINF:-1 tvg-id="3641991612" tvg-name="TR | ULKE TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULKE TV HD (1)
+#EXTINF:-1 tvg-id="3641991612" tvg-name="TR | ULKE TV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULKE TV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3641991612.m3u8
-#EXTINF:-1 tvg-id="3203334343" tvg-name="TR | ULKETV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULKETV HD (1)
+#EXTINF:-1 tvg-id="3203334343" tvg-name="TR | ULKETV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULKETV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3203334343.m3u8
-#EXTINF:-1 tvg-id="1910048817" tvg-name="TR | ULUSAL KANAL (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULUSAL KANAL (1)
+#EXTINF:-1 tvg-id="1910048817" tvg-name="TR | ULUSAL KANAL (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULUSAL KANAL (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1910048817.m3u8
-#EXTINF:-1 tvg-id="2249801655" tvg-name="TR | ULUSAL KANAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULUSAL KANAL (6)
+#EXTINF:-1 tvg-id="2249801655" tvg-name="TR | ULUSAL KANAL (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULUSAL KANAL (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2249801655.m3u8
-#EXTINF:-1 tvg-id="885453469" tvg-name="TR | ULUSAL KANAL (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULUSAL KANAL (7)
+#EXTINF:-1 tvg-id="885453469" tvg-name="TR | ULUSAL KANAL (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULUSAL KANAL (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=885453469.m3u8
-#EXTINF:-1 tvg-id="1917903629" tvg-name="TR | ULUSAL KANAL SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ULUSAL KANAL SD (1)
+#EXTINF:-1 tvg-id="1917903629" tvg-name="TR | ULUSAL KANAL SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ULUSAL KANAL SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1917903629.m3u8
-#EXTINF:-1 tvg-id="3053206623" tvg-name="TR | ÜLKE TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | ÜLKE TV (6)
+#EXTINF:-1 tvg-id="3053206623" tvg-name="TR | ÜLKE TV (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",ÜLKE TV (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3053206623.m3u8
-#EXTINF:-1 tvg-id="3126797390" tvg-name="TR | UZAY HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TR | UZAY HABER (7)
+#EXTINF:-1 tvg-id="3126797390" tvg-name="TR | UZAY HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",UZAY HABER (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3126797390.m3u8
 
+####BELGESEL###
 
 #EXTINF:-1 tvg-id="3295699287" tvg-name="TR | 24 KITCHEN (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",TR | 24 KITCHEN (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3295699287.m3u8
