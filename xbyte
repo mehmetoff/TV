@@ -1,12 +1,6 @@
 #EXTM3U
 
-####SPOR####
 
-#EXTINF:-1 tvg-id="2078862937" tvg-name=" EUROSPORT 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 1 HD (1)
-https://vavox.duckdns.org/xbyte.m3u8/?id=2078862937.m3u8
-
-#EXTINF:-1 tvg-id="4117227962" tvg-name=" EUROSPORT 2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 2 HD (1)
-https://vavox.duckdns.org/xbyte.m3u8/?id=4117227962.m3u8
 
 ####ULUSAL####
 
@@ -453,6 +447,14 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=1917903629.m3u8
 https://vavox.duckdns.org/xbyte.m3u8/?id=3053206623.m3u8
 #EXTINF:-1 tvg-id="3126797390" tvg-name="TR | UZAY HABER (7)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",UZAY HABER (7)
 https://vavox.duckdns.org/xbyte.m3u8/?id=3126797390.m3u8
+
+####SPOR####
+
+#EXTINF:-1 tvg-id="2078862937" tvg-name=" EUROSPORT 1 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 1 HD (1)
+https://vavox.duckdns.org/xbyte.m3u8/?id=2078862937.m3u8
+
+#EXTINF:-1 tvg-id="4117227962" tvg-name=" EUROSPORT 2 HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPORT 2 HD (1)
+https://vavox.duckdns.org/xbyte.m3u8/?id=4117227962.m3u8
 
 ####BELGESEL###
 
