@@ -274,9 +274,9 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=4253369376.m3u8
 #EXTINF:-1 tvg-id="1320391955" tvg-name="TR | 4K TR: HALK TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE", HALK TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1320391955.m3u8
 
-#EXTINF:-1 tvg-id="2073292907" tvg-name="TR | 4K TR: NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",NTV HD (1)
+#EXTINF:-1 tvg-id="2073292907" tvg-name="TR | 4K TR: NTV HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",NTV HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2073292907.m3u8
-#EXTINF:-1 tvg-id="960578312" tvg-name="TR | 4K TR: SOZCU TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SOZCU TV (1)
+#EXTINF:-1 tvg-id="960578312" tvg-name="TR | 4K TR: SOZCU TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LIST",SOZCU TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=960578312.m3u8
 #EXTINF:-1 tvg-id="1907154704" tvg-name="TR | 4K TR: TGRT HABER HD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",TGRT HABER HD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1907154704.m3u8
@@ -371,7 +371,7 @@ https://vavox.duckdns.org/xbyte.m3u8/?id=2862710352.m3u8
 https://vavox.duckdns.org/xbyte.m3u8/?id=3614694247.m3u8
 #EXTINF:-1 tvg-id="2466905700" tvg-name="TR | S ZC SZC TV (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber", SZC TV (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2466905700.m3u8
-#EXTINF:-1 tvg-id="1098172953" tvg-name="TR | SOZCU SZC TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="LISTE",SZC TV SD (1)
+#EXTINF:-1 tvg-id="1098172953" tvg-name="TR | SOZCU SZC TV SD (1)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SZC TV SD (1)
 https://vavox.duckdns.org/xbyte.m3u8/?id=1098172953.m3u8
 #EXTINF:-1 tvg-id="2036794972" tvg-name="TR | SZC (6)" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Haber",SZC (6)
 https://vavox.duckdns.org/xbyte.m3u8/?id=2036794972.m3u8
