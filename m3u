@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 [FHD]" tvg-logo="" group-title="TURKIYE",TR: TRT 1 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98238
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 [FHD]" tvg-logo="" group-title="TURKIYE",TR: TRT 2 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89940
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL [FHD]" tvg-logo="" group-title="TURKIYE",TR: TRT BELGESEL [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/90174
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="DeaTHLesS KRAL",Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D (HEVC)" tvg-logo="" group-title="TURKIYE",TR: KANAL D (HEVC)
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/33042
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D [FHD]" tvg-logo="" group-title="TURKIYE",TR: KANAL D [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17600
+#EXTINF:-1 tvg-id="showTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="DeaTHLesS KRAL",show TV
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TURK ꜰʜᴅ" tvg-logo="" group-title="TURKIYE",TR: SHOW TURK ꜰʜᴅ
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89961
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV (HEVC)" tvg-logo="" group-title="TURKIYE",TR: SHOW TV (HEVC)
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/33041
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV (HEVC)" tvg-logo="" group-title="TURKIYE",TR: ATV (HEVC)
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/33039
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV [FHD]" tvg-logo="" group-title="TURKIYE",TR: ATV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17602
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV [HD]" tvg-logo="" group-title="TURKIYE",TR: ATV [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17601
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR [SAT]" tvg-logo="" group-title="TURKIYE",TR: STAR [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98219
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV (hevc)" tvg-logo="" group-title="TURKIYE",TR: STAR TV (hevc)
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/33040
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV [FHD]" tvg-logo="" group-title="TURKIYE",TR: STAR TV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17604
+#EXTINF:-1 tvg-id="" tvg-name="TR: NOW TV [FHD]" tvg-logo="" group-title="TURKIYE",TR: NOW TV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17594
+#EXTINF:-1 tvg-id="" tvg-name="TR: NOW TV [SAT]" tvg-logo="" group-title="TURKIYE",TR: NOW TV [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98215
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV (hevc)" tvg-logo="" group-title="TURKIYE",TR: BEYAZ TV (hevc)
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/33045
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV [FHD]" tvg-logo="" group-title="TURKIYE",TR: BEYAZ TV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17620
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 [FHD]" tvg-logo="" group-title="TURKIYE",TR: TEVE 2 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17609
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 [FHD]" tvg-logo="" group-title="TURKIYE",TR: TV 8 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17607
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 [FHD]" tvg-logo="" group-title="TURKIYE",TR: TV 8.5 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/87312
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 [FHD]" tvg-logo="" group-title="TURKIYE",TR: A2 [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17626
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 [HD]" tvg-logo="" group-title="TURKIYE",TR: A2 [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89976
+#EXTINF:-1 tvg-id="" tvg-name="TR:  A PARA [FHD]" tvg-logo="" group-title="TURKIYE",TR:  A PARA [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/90158
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER [FHD]" tvg-logo="" group-title="TURKIYE",TR: A HABER [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17619
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK [FHD]" tvg-logo="" group-title="TURKIYE",TR: CNN TURK [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17615
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK [FHD]" tvg-logo="" group-title="TURKIYE",TR: HABERTURK [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17614
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV [FHD]" tvg-logo="" group-title="TURKIYE",TR: NTV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17613
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV [SAT]" tvg-logo="" group-title="TURKIYE",TR: NTV [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98225
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER [FHD]" tvg-logo="" group-title="TURKIYE",TR: TRT HABER [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89980
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 [HD]" tvg-logo="" group-title="TURKIYE",TR: TV 100 [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89919
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100 [SAT]" tvg-logo="" group-title="TURKIYE",TR: TV 100 [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98240
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV [FHD]" tvg-logo="" group-title="TURKIYE",TR: ULKE TV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89913
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULKE TV [HD]" tvg-logo="" group-title="TURKIYE",TR: ULKE TV [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17629
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL TV [FHD]" tvg-logo="" group-title="TURKIYE",TR: EKOL TV [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/114721
+#EXTINF:-1 tvg-id="" tvg-name="TR: EKOL TV [SAT]" tvg-logo="" group-title="TURKIYE",TR: EKOL TV [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98643
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR [FHD]" tvg-logo="" group-title="TURKIYE",TR: A SPOR [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17578
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR [FHD]" tvg-logo="" group-title="TR: SPOR",TR: HT SPOR [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/114724
+#EXTINF:-1 tvg-id="" tvg-name="TR: HT SPOR[HD]" tvg-logo="" group-title="TR: SPOR",TR: HT SPOR[HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/114725
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR [FHD]" tvg-logo="" group-title="TURKIYE",TR: TRT SPOR [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17573
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR [HD]" tvg-logo="" group-title="TURKIYE",TR: TRT SPOR [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17572
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX [FHD]" tvg-logo="" group-title="TURKIYE",TR: DMAX [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17621
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX [SAT]" tvg-logo="" group-title="TURKIYE",TR: DMAX [SAT]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98234
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC [FHD]" tvg-logo="" group-title="TURKIYE",TR: TLC [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/90172
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH [FHD]" tvg-logo="" group-title="TURKIYE",TR: BBC EARTH [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17764
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH [HD]" tvg-logo="" group-title="TURKIYE",TR: BBC EARTH [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89960
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL [FHD]" tvg-logo="" group-title="TURKIYE",TR: DISCOVERY CHANNEL [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17769
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL [HD]" tvg-logo="" group-title="TURKIYE",TR: DISCOVERY CHANNEL [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89938
+#EXTINF:-1 tvg-id="" tvg-name="TR: HISTORY [FHD]" tvg-logo="" group-title="TURKIYE",TR: HISTORY [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89948
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORER [SD]" tvg-logo="" group-title="TURKIYE",TR: VIASAT EXPLORER [SD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98774
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY [FHD]" tvg-logo="" group-title="TURKIYE",TR: VIASAT HISTORY [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17779
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD [FHD]" tvg-logo="" group-title="TURKIYE",TR: NAT GEO WILD [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD [HD]" tvg-logo="" group-title="TURKIYE",TR: NAT GEO WILD [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/98239
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC [FHD]" tvg-logo="" group-title="TURKIYE",TR: NATIONAL GEOGRAPHIC [FHD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
+#EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC [HD]" tvg-logo="" group-title="TURKIYE",TR: NATIONAL GEOGRAPHIC [HD]
+http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89927
+
