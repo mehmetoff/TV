@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="DeaTHLesS KRAL",TRT 1
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="DeaTHLesS KRAL",atv
-https://vavox.duckdns.org/xbyte.m3u8/?id=2861010641.m3u8
+https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=DHn21pU9QdqnMZ8d67mWeQ&e=1737929245&ppid=64e56cb1a299c3128b00b1ae198ab428&gdpr=0
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="DeaTHLesS KRAL",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="DeaTHLesS KRAL",Now TV
