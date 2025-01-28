@@ -1,0 +1,1006 @@
+#EXTM3U
+
+# * » Ulusal « * #
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="(TR) ATV 4K+" group-title="TR - Ulusal",(TR) ATV 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="TR - Ulusal",(TR) ATV 2
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Fox "tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="Ulusal":http-referrer="":http-user-agent="",Fox
+https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="Ulusal",Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Dısı",Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal - Yurt Dısı",Show Turk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+
+
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Ulusal",teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Ulusal",TV8.5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Ulusal",TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="Ulusal",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="Ulusal",Deniz Postası TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="Ulusal",Cine 1 (720p)
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="Ulusal",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="Ulusal",A2TV
+https://c.fulltvizle.com/a2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Ulusal",Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 53"tvg-id=""tvg-logo="https://s1.dmcdn.net/v/W4AVe1c3eeyX2yLHH/x1080"group-title="Ulusal ":http-referrer="":http-user-agent="",Kanal 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Rize Türk TV"tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png"group-title="Ulusal":http-referrer="":http-user-agent="",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+
+# * » Haber « * #
+
+#EXTINF:-1 tvg-name="Sözcü TV"tvg-id="Haber"tvg-logo="https://www.evrensel.net/upload/dosya/231375.jpg"group-title="Haber":http-referrer="":http-user-agent="",Sözcü TV
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="https://i.imgur.com/xM0HA30.png" group-title="Haber",Halk TV (1080p)
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-logo="https://i.imgur.com/6Tw3rUp.png" group-title="Haber",Habertürk TV (1080p)
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-name = "Cnn Turk" tvg-language = "Türkçe" tvg-country = "TR" tvg-id = "Haber_CNNTurk" tvg-logo = " https://imgur.com/ Bu0Wlge.png " group-title="Haber",Cnn Turk
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Haber",TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber"Ulke TV
+http://stream.tvcdn.net/haber/ulke-tv.m3u8
+
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
+http://stream.tvcdn.net/haber/ntv.m3u8
+
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber",24 TV
+http://stream.tvcdn.net/haber/24-tv.m3u8
+
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Haber",Tele 1
+http://stream.tvcdn.net/haber/tele-1.m3u8
+
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
+http://stream.tvcdn.net/haber/tvnet.m3u8
+
+#EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",BengTurk TV
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Haber",Bloomberg HT
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+
+#EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="http://assets.tvcdn.net/61b5c17b-e0dd-4702-bb9b-689097e4648f.png" group-title="Haber",Meltem TV
+http://stream.tvcdn.net/dini/meltem-tv.m3u8
+
+#EXTINF:-1 tvg-name="Flash Haber"tvg-id=""tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw1920_sh1080_sx0_sy0_sr16x9_nu2/picture/original/2024/07/flash-haber-sender-logo-409048.png"group-title="Haber":http-referrer="":http-user-agent="",Flash Haber
+https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+
+# * » Belgesel « * #
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Belgesel",Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6982e864-f429-4e6e-b3ba-d064ae84ff13.png" group-title="Belgesel",Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Belgesel",DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Belgesel",TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+
+#EXTINF:-1 tvg-name="Nat Geo HD TR"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo=""group-title="Belgesel":http-referrer="":http-user-agent="",Nat Geo HD TR
+https://tv.arectv11.sbs/live/natgeo.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+
+
+
+# * » Cizgi Film « * #
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-id="CizgiFilm_CartoonNetwork"tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",Cartoon Network
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT Çocuk"tvg-id="CizgiFilm_TRT"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13060701.png"group-title="ÇizgiFilm":http-referrer="":http-user-agent="",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
+https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
+# ? https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+
+# * » Müzik « * #
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+
+#EXTINF:-1 tvg-name="Slow karadeniz "tvg-id=""tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp"group-title="Muzik":http-referrer="":http-user-agent="",Slow karadeniz 
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Muzik",Dream Turkk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+
+#EXTINF:-1 tvg-name="Power Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" group-title="Muzik",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="Muzik",Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+
+#EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png" group-title="Muzik",Kral Pop TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+
+#EXTINF:-1 tvg-id="Number1TV.tr" tvg-logo="http://assets.tvcdn.net/c46cb81f-8075-442a-be24-d77a05f57921.png" group-title="Muzik",Number One TV
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+
+#EXTINF:-1 tvg-name="Milyon TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_MilyonTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/60900db7866ac318488bc30f" group-title="Muzik",Milyon TV
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="Muzik",Tatlıses TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="Muzik",Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="Muzik",Powerturk Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="Muzik",Powerturk Slow
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="Muzik",Powerturk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="Muzik",Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+
+#EXTINF:-1 tvg-id="Number1Dance.tr" tvg-logo="http://assets.tvcdn.net/45eb173b-8b68-4caa-a5d3-65dc044b08e9.png" group-title="Muzik",Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Muzik",Muzik TV
+http://stream.tvcdn.net/muzik/muzik-tv.m3u8
+
+#EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Muzik",Tatlıses TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+
+# * » Bein Sinema « * # 
+
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3050&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3049&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Box Office 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3048&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Movies Turk 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3038&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Movies Stars 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3039&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Movies Action 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3046&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89829&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Movies Premiere 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3041&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Series 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89832&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Series 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89831&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Series 3 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=89830&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Bein Series 4 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3035&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Sinema Yerli 1 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170408&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Sinema Yerli 2 4K+
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170406&extension=m3u8
+#EXTINF:-1 group-title="TR - YABANCI SINEMA",(TR) Epic Drama
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=170409&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli Sinema TV 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=164248&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli Sinema TV 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181059&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli Sinema TV 5
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181063&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli komedi 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180978&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli Komedi 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180979&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yerli Komedi 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181105&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Recep İVEDIK
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=61192&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) 7/24 Recep ivedik 1 HD
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180980&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Tabii Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180966&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Tabii Original 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180968&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Tabii Original 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180969&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Tabii Original 4
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=182054&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Gain Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181012&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Gain Original 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181014&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Gain Original 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181015&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Tod Original 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=180988&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Exxen Original 1
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kemal Sunal 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=21070&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kemal Sunal 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2984&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kemal Sunal 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47680&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kemal Sunal 4
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71214&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kemal Sunal 5
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101020&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cüneyt Arkin 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47683&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cüneyt Arkın 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97726&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cüneyt Arkın 70'ler
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=151106&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cüneyt Arkın: Baddal Gazi
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47664&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cüneyt Arkın: Kara Murat
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=136972&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Malkoçoğlu
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181025&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Kadir İnanır 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2864&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Kadir İnanır 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71207&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Kadir İnanır 80'ler
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101048&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Ibrahim Tatlıses 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=151645&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Serdar Gökhan
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101013&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Yilmaz Guney 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71213&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Yilmaz Güney 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71209&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Yilmaz Güney 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=61256&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Şener Şen 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=151779&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Kartal Tibed
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47671&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) 7/24 Tarik Akan
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47706&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Ilyas Salman
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2869&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Ibrahim Tatlıses 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=2912&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Kartal Tibet 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47662&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Hülya Avşar 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47665&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Adile Naşit 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=97694&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Cilali Ibo
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101018&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Ayhan Işık
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101019&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Türkan Şoray 3
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101011&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Türkan Şoray 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101029&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YEŞİLÇAM",(TR) Türkan Şoray 2
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=101032&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 DIZI & SHOW",(TR) Beyaz SHOW
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181576&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YERLI SINEMA",(TR) Güldür Güldür Show 1
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=181023&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) AL Pacino
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=91054&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Brad Pitt
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=80984&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Jackie Chan
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=71205&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Nicolas Cage
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=93454&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Van Damme
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=91071&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Jason Statham
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=47655&extension=m3u8
+#EXTINF:-1 group-title="TR - 7/24 YABANCI SINEMA",(TR) Mark Wahlberg
+http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=94648&extension=m3u8
+
+
+
+# * » Hd Film « * #
+
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-demir-adam-1-iron-man-1.jpg",Iron Man
+https://vidrame.pro/vr/get/ef7709d0/1080.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/722b707472b3d365e66876554b2042875340230dffae36b7aaef021150501fb3.jpg",Inanilmaz Hulk
+https://a3.vidload.lol/2591/1080p.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg",Iron man 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/80/01/29/36/78/99/84/47/1/373d0167-f416-4e75-848b-bc0e44c7611c/kaltura/desc_7f17a82064f40ac877a70695ad7b9346/vtvTSifzK0nA/vw=1280,vh=544,fps=24.00,vbrt=1149762,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-thor-turkce-dublaj-izle.jpg",Thor
+https://cdn.dzen.ru/vod/converted-video/vod-content/44/90/09/21/36/02/54/97/46/0/176360d9-c58e-413a-b145-4e8c66417dac/kaltura/desc_1b6c88e745811e07e6a99bada5c94f51/v_bnpOI4PZUM/vw=1280,vh=544,fps=24.00,vbrt=934354,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Kaptan-Amerika-Ilk-Yenilmez-180x270.jpg",Ilk Yenilmez
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/84/26/74/68/45/41/47/98/3/bddcff97-67fd-4788-9f2c-c12586f42600/kaltura/desc_f6ec1097d17f698b03ba748aa2c7b7b6/v6GGx0iLnsiQ/vw=1280,vh=544,fps=24.00,vbrt=783951,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/fullhd-yenilmezler-the-avengers-izle.jpg",Avengers
+https://vidrame.pro/vr/get/9de3d24b/1080.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Iron-Man-3-2013.png",Iron Man 3
+https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://de.web.img2.acsta.net/c_310_420/pictures/210/384/21038405_20130910100531603.jpg",Thor 2
+https://vidrame.pro/vr/get/5cac84cf/1080.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.4kfilmizlesene.org/wp-content/uploads/2020/12/Captain-America-The-Winter-Soldier-2014.png",Kaptan Amerika 2
+https://vidrame.pro/vr/get/08b02408/1080.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_ebd1f16c.jpeg?region=0,0,540,810",Galaksinin Koruyuculari
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/85/57/53/01/82/12/72/15/4/9d74f3d1-585a-4041-a0f8-6489c4a9886e/kaltura/desc_0db591c6af9786fc4cd8bb15ab37c7c1/vW0FnTqhn1BU/vw=1280,vh=534,fps=24.00,vbrt=910952,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3D27801687E91EC2B9DAA49E927B2E908174809679FA9C251F37837D64376EBC/scale?width=1200&aspectRatio=1.78&format=webp",Avengers 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/98/57/07/44/69/19/58/ca618471-04c3-45dc-956d-adfe9e7cb10f/kaltura/desc_0bb28014aefcef6907153e375f95d4d6/vHOmnVGHECXw/vw=1280,vh=536,fps=24.00,vbrt=1153873,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_HsuaaksL2tF7XBUf3bXDO5nRzTd6zINyg&s",Civil War
+https://cdn.dzen.ru/vod/converted-video/vod-content/91/10/49/94/82/38/47/87/71/3/e75a8e4d-6761-430c-90f8-6fc69f8a7c0a/kaltura/desc_1374991048be5cece18ee2d321510c1b/v7selF-EPCBY/vw=1280,vh=536,fps=24.00,vbrt=959083,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://de.web.img2.acsta.net/pictures/16/10/18/11/39/193242.jpg",Doctor Strange
+https://cdn.dzen.ru/vod/converted-video/vod-content/58/78/90/47/32/89/20/05/32/5/2871b00c-40c0-4701-aa51-ab2cd3bd43f8/kaltura/desc_8d645b4e8943e8aaba03fd31573b8e93/vwJ_ASJgMugk/vw=1280,vh=536,fps=24.00,vbrt=791262,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle-lg/fullhd-galaksinin-koruyuculari-2-guardians-of-the-galaxy-vol-2.jpg",Galaksinin Koruyuculari 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/80/90/74/72/77/11/64/19/26/0/ab5c28b9-6bac-46f2-864c-42cd2e89b77b/kaltura/desc_49e82e84b3f80e6654f474d46f542843/v92urPrnFJEQ/vw=1280,vh=536,fps=24.00,vbrt=1041839,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg",Spiderman Homecoming
+https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://file.macellan.online/images/540/825/80//rzrwtcfvttcn1zpx2xv4j3tsdju--1691413618.jpg",Thor 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/95/16/11/42/94/27/53/31/86/eae39336-3bbb-4c43-a7b2-abaf51a92b74/kaltura/desc_6799424806bc07201bcc338703bd8867/vkmG07isuB3s/vw=1280,vh=536,fps=24.00,vbrt=1239825,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_blackpanther_19754_4ac13f07.jpeg?region=0%2C0%2C540%2C810",Black Panter
+https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/09/Yenilmezler-3-Sonsuzluk-Savasi.jpg",Avengers 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/14/53/24/67/93/40/42/32/65/de2d29e9-01df-4438-a466-9b5c57b3c5b7/kaltura/desc_2099a528ca68ef62ac908194342d5894/vxDDUrZMB0g0/vw=1280,vh=536,fps=24.00,vbrt=1143543,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.justwatch.com/poster/264494138/s332/karinca-adam-ve-yaban-arisi",karinca Adam 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/84/86/20/34/81/33/89/71/94/4/8888c632-ce91-449d-b136-639beb3d281e/kaltura/desc_3da1c214ae761d72eea325b7d5895558/vuSeInrJpgSc/vw=1280,vh=536,fps=24.00,vbrt=783783,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.justwatch.com/poster/96283315/s718/kaptan-marvel.jpg",Captain Marvel
+https://s9.pixypost.art/mc/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxpTy4rKOip3DhLKW0s0xi9vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://panel.1kfilm.com/assets/img/filmsimg/avengers-endgame-yenilmezler-son-oyun.png",Avengers 4
+https://cdn.dzen.ru/vod/converted-video/vod-content/15/31/67/44/79/13/21/12/01/2/86ee28a8-d587-4222-a6bc-573b7bd6e2e7/kaltura/desc_a05356342408ab2b56cf6b1cf7076086/vt6eDlcqVkz8/vw=1280,vh=536,fps=24.00,vbrt=792367,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.paribucineverse.com/Files/POSTER/OrumcakAdam_EvdenUzakta_AF_S_y.jpg",Spiderman Far from Home
+https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.justwatch.com/poster/265588420/s718/kara-dul.jpg",Black Widow
+https://vidrame.pro/vr/get/226fe687/1080.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/orumcek-adam-eve-donus-yok-izle-1-16915.jpg",Spiderman No  way Home
+https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.paribucineverse.com/Files/POSTER/DR-STRANGE.jpg",Doctor Strange 2
+https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://tr.web.img4.acsta.net/pictures/22/11/07/07/30/1572006.jpg",Black Panter 2
+https://s5.imgmania.org/m1/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://images.justwatch.com/poster/301774755/s718/the-guardians-of-the-galaxy-holiday-special.jpg",Galaksinin Koruyuculari Special
+https://s2.photogrids.site/m5/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTuiqT9apzyxpl5mnKEys0xi2vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://image.tmdb.org/t/p/w500/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg",Werewolf by Night
+https://sithmanifest.com/server/videos/367248/eng/cDdpa2g3eHFoM3I5V25wS1JJeTgwQzFMdit1Y1lvQnlMaEhRbjZGc0ZUREZlbk5mYVJIYkE3K3c4OEVJTk5ldw/1080.m3u8?_=1727725128
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://tr.web.img3.acsta.net/pictures/23/01/25/11/45/2784455.jpg",Karinca adam 3
+https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_167d5a00.jpeg?region=0,0,540,810",The Marvels
+https://vidrame.pro/vr/get/b38c1403/480.txt
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp",Deadpool 3
+https://s1.imagesbox.cloud/m9/ETIuMUOio2jhLJ5xYyqioUMypzyhMF4lZQV0YyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImLz94YzAfo3Ixs0xi1vr1
+#EXTINF:-1 group-title="DCU" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0R829ipVmRfBppmmqfgV8D-WZUpk9txWAliBm9CYXxtUNN.jpg",Batman The Dark Knight
+https://vidrame.pro/vr/get/503b6fee/1080.txt
+#EXTINF:-1 group-title="DCU" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/784cd10ce5985eb2f3dac50c87f9806e2f23e28c6a5b82f035b3915a302b109e.jpg",Batman the Dark Rises
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/90/82/24/92/04/41/93/48/3/036a4860-6294-47a6-bef7-8d6dd72e169e/kaltura/desc_c1241ebcfabdbf16d5c36b6eb999733f/vUh-4o7UgHR0/vw=1280,vh=720,fps=24.00,vbrt=1126151,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDYmLWmCBgPZhZFUVX8wTfZwSZPDblYPgBG3SX18fdFNpN.jpg",Hizli ve Ofkeli
+https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z9kf3N2GfyXADxC8HlXfUNAZ60VvjlZQR2k0ZfdFNpN.jpg",Hizli ve Ofkeli 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/38/79/57/04/71/80/84/27/25/8/619271cd-456e-48a8-84e7-9e94c5b3508d/kaltura/desc_6904e4f25421b9f114bf27081a41812b/vgdvhgl6hME4/vw=1280,vh=546,fps=24.00,vbrt=1602756,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/Xmp2ZUQDA8jbqGVkvvmk9aNZPGL0mvtXQ0jBGKL0800f1ffdFNpN.jpg",Hizli ve Ofkeli 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/23/27/24/23/79/09/34/31/77/7/1a91e7b0-e9be-44ec-af30-ab710bd54976/kaltura/desc_93571659f7d3dee47b255fe795aeb143/vJX7sHKeRTB4/vw=1280,vh=536,fps=24.00,vbrt=1206082,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://filmkovasi.tv/wp-content/themes/filmplus/tm/ll/XGZ/ZF8kk0Z8ZGiVcF0b2YFtglfxVweYVYbt0pn/0X091qgUYXxtUNN==.jpg",Hizli ve Ofkeli 4
+https://vidrame.pro/vr/get/63bc9250/1080.txt
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7d/H%C4%B1zl%C4%B1_ve_%C3%96fkeli_5_%28afi%C5%9F%29.jpg",Hizli ve Ofkeli 5
+https://vidrame.pro/vr/get/03790982/1080.txt
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/5444349.jpg",Hizli ve Ofkeli 6
+https://vidrame.pro/vr/get/25624c87/1080.txt
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b8/Furious_7_poster.jpg",Hizli ve Ofkeli 7
+https://vidrame.pro/vr/get/66988bb7/1080.txt
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://images.justwatch.com/poster/264337564/s718/hizli-ve-ofkeli-9.jpg",Hizli ve Ofkeli 9
+https://cdn.dzen.ru/vod/converted-video/vod-content/79/81/29/86/71/80/06/90/2/e78cb599-9648-4a7a-822b-40ce7105512a/kaltura/desc_2e7114dc4d2a2758dbe3474f8f552565/vYfqJXE65bHE/vw=1280,vh=536,fps=24.00,vbrt=1289442,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Hizli ve Ofkeli" tvg-logo="https://images.justwatch.com/poster/320021290/s166/hizli-ve-ofkeli-10",Hizli ve Ofkeli 10
+https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://static.posters.cz/image/1300/poster/harry-potter-der-stein-der-weisen-i104639.jpg",Harry Potter
+https://cdn.dzen.ru/vod/converted-video/vod-content/48/88/60/47/99/32/84/47/19/9/1d77e788-dddb-4585-861f-f13637a225bc/kaltura/desc_632e960777b6e5fe72f21db7dc66019c/vkXobfS4Q0FE/vw=1280,vh=534,fps=24.00,vbrt=1057640,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/fff72385d087e1d4bbcbc45052fbafcd69fa2b4cc92dad9eb4d5297d06e0c0af._SX780_.jpg",Harry Potter 2
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/39/86/92/16/29/45/98/73/b3ebbf1b-0440-4f5a-ab4f-1665758c2c92/kaltura/desc_86665736235ae6f9572af03ff8ab37ce/vbsc2-Du6BWE/vw=1280,vh=534,fps=24.00,vbrt=986752,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://play-lh.googleusercontent.com/lBQTnSIfJAsUilF4SJM-YFsfe-xEsXUcnhpQxurGkj4pWZT9jIsHLqa7XPN3tRjLoGOQCF3nx1FD8dGPtl8",Harry Potter 3
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/27/22/51/47/13/14/43/59/8/93881b7a-359c-40a2-ae0f-5a1160603917/kaltura/desc_6f31f1be4ef33899a279caf44b013453/vsY5Ad0y7aFU/vw=1280,vh=534,fps=24.00,vbrt=1364999,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://images.justwatch.com/poster/264875049/s718/harry-potter-ve-zumruduanka-yoldasligi.jpg",Harry Potter 5
+https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
+#EXTINF:-1 group-title="Harry Potter" tvg-logo="https://www.justwatch.com/images/poster/264900088/s718/harry-potter-ve-melez-prens.jpg",Harry Potter 6
+https://cdn.dzen.ru/vod/converted-video/vod-content/89/00/78/12/41/71/20/10/66/6/e9d87728-f42c-4fd4-b2eb-4ec8bc98b5c5/kaltura/desc_f4f5beb7764717c39926764687cc11b5/v2JsATmu7rHM/vw=1280,vh=534,fps=24.00,vbrt=620677,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://img.fullhdfilmizlesene.de/poster/izle/fullhd-prestij-the-prestige.webp",The Prestige
+https://vidrame.pro/vr/get/71efdcb8/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdooi6w35ctejeZz39B15KYvmbQjcUVI5tqY5YVi4rlvLdejwX",Inception
+https://cdn.dzen.ru/vod/converted-video/vod-content/25/49/61/88/58/51/73/37/02/ab4f8a08-1d0c-4025-aa0f-bdcbdfbb1727/kaltura/desc_2da558bf53cdd6ea962cd83e59c0c280/vfdItyhKBcGU/vw=1280,vh=534,fps=24.00,vbrt=913259,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDGmElmQYAYaoAA_YjQ_Hjqxgle4klYxa08wIk1ffdFNpN.jpg",Gangs of New York
+https://vidrame.pro/vr/get/1573fef9/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAj3Z9mNimX_jXmCZeCN2vVeV9l7kqYJbPaZl1ffdFNpN.jpg",Benjamin Button’ın Tuhaf Hikayesi
+https://vidrame.pro/vr/get/63a10802/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2022/03/kanli-elmas-180x270.jpg",Blood Diamond
+https://cdn.dzen.ru/vod/converted-video/vod-content/47/43/09/10/66/66/70/91/30/1/82c6ff5b-17aa-4d0d-b895-0f3ab5aa1c6e/kaltura/desc_13613c626229be04591ff2c0ab811c78/vwL9v_ZGphyQ/vw=1280,vh=530,fps=24.00,vbrt=1547357,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://filmekseni.net/uploads/poster/can-dostum-2011_list.webp",The Intouchables
+https://a1.vidload.lol/824/1080p.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDG88jGt42G3AXQsTWpdiV9j7Xq_peGaTYqXzV1ZfdFNpN.jpg",Django Unchained
+https://vidrame.pro/vr/get/0b5e53d0/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/94441e44a4c725a471d26c6ddf88bc4c9c9efb01ef2ea3825e48fd74c5d583f1.jpg",Goodfellas
+https://cdn.dzen.ru/vod/converted-video/vod-content/35/59/17/53/84/97/30/48/66/0/2fefe145-16b1-4ffb-a27c-9aebccc7f49f/kaltura/desc_d297caa2ef3006db4c978b81c16cf333/vWXWSuTUgAGU/vw=1280,vh=720,fps=24.00,vbrt=1055136,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/55983.jpg",Köstebek
+https://cdn.dzen.ru/vod/converted-video/vod-content/52/73/62/85/18/45/58/76/43/8/9fbe8ea3-6c75-4d50-b428-02190f24a010/kaltura/desc_c0d09029b4291ae8f227b6baed1df35f/v-h1ABrgy21I/vw=1280,vh=532,fps=24.00,vbrt=727617,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDm_RVdKPWYZ43ZNziqZx3eGNWd6cVm7E09sQl08fdFNpN.jpg",Whiplash
+https://vidrame.pro/vr/get/61e2bb25/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDY3H1pZbXZNwYf3OXw0bAptzkFVmlQfmXQ_WA0ffdFNpN.jpg",Green Book
+https://vidrame.pro/vr/get/a14f25a6/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/ll_XGZ_ZF8kk0YpflmW0QHykZDtmfUNeAn_0AmCmpmq39Hc1AACYXxtUNN.jpg",Gran Turismo
+https://vidrame.pro/vr/get/a33a29dd/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://yabancidizi.tv/uploads/series/contratiempo-izle.jpg",The Invisible Guest
+https://a2.vidload.lol/2686/1080p.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/3c719a17c48849b51ef1ce6c482dae7595f0a0728d54a7aff51128022b80556c.jpg",I am Legend
+https://cdn.dzen.ru/vod/converted-video/vod-content/72/49/68/64/33/50/20/82/58/6/5e6a53d9-8938-4113-9d11-2d9f7b2b8e4a/kaltura/desc_c8abcab144c69c297f88f2d974e3c559/vdutm5SBOtQE/vw=1280,vh=534,fps=24.00,vbrt=992443,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.bayfilmizle1.com/wp-content/uploads/2016/11/Yildizlararasi.jpg",Interstellar
+https://cdn.dzen.ru/vod/converted-video/vod-content/63/32/18/89/47/26/70/79/26/fe6c6f92-22e8-4bd4-98bc-244a5209c216/kaltura/desc_4ed14b976e51d6eb7b8c491e37e51058/v9OXK_H1BAWA/vw=1280,vh=720,fps=24.00,vbrt=1214591,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://image.tmdb.org/t/p/w1280/bhoSakdAUNOBgewctCUzBNSjLm2.jpg",Enemy at the Gates
+https://cdn.dzen.ru/vod/converted-video/vod-content/28/98/89/42/34/39/47/87/92/2/1b05b293-2212-41d5-9fed-91a1296622e9/kaltura/desc_03d75a462294fc33a27891883bc7bfc8/vdm8-mrokMR4/vw=1280,vh=544,fps=24.00,vbrt=717073,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.imdb.com/title/tt0264464/mediaviewer/rm306010113/?ref_=tt_ov_i",Catch Me If You Can
+https://cdn.dzen.ru/vod/converted-video/vod-content/63/13/45/67/09/97/85/80/29/7/c4c0cfb0-2fd5-49e8-8ebe-59cf396c85d6/kaltura/desc_66abdca23b9d5ce792369d05a5d024e1/vNbeWPm65dCA/vw=1280,vh=690,fps=24.00,vbrt=1120112,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/26/200px-Lord_of_War_film.jpg",Lord Of War
+https://cdn.dzen.ru/vod/converted-video/vod-content/68/90/24/38/75/77/53/65/90/4/b9a194cb-3650-479d-b7a7-20f0f78129d7/kaltura/desc_2e3e15f16100b2cf73dbd7c4792fdbca/vDIf4LJwwGic/vw=1280,vh=534,fps=24.00,vbrt=834596,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/uploads/2023/10/Marsli.jpg",The Martian
+https://vidrame.pro/vr/get/0759ce0a/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDYl1WXaW09oHjqRmWP8e1ZvwZY_GY9Z03mNjd0pfdFNpN.jpg",The Revenant
+https://vidrame.pro/vr/get/f57a44ca/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAjjll8bXG_qmPjclpH1WqFgkY7ojXttlZaYl0pfdFNpN.jpg",Arrival
+https://vidrame.pro/vr/get/0719325f/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://cdn.dzen.ru/vod/converted-video/vod-content/80/48/49/54/66/97/03/43/14/8/ca37e219-8a66-4dab-8788-a810fee4978c/kaltura/desc_364162c63a08ac0efeab391661a67595/v2td7mikdr2I/vw=1278,vh=720,fps=24.00,vbrt=709343,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8",The Others
+https://cdn.dzen.ru/vod/converted-video/vod-content/80/48/49/54/66/97/03/43/14/8/ca37e219-8a66-4dab-8788-a810fee4978c/kaltura/desc_364162c63a08ac0efeab391661a67595/v2td7mikdr2I/vw=1278,vh=720,fps=24.00,vbrt=709343,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDA_R2qt-BmUqk9jeBPjclAF0mYeNflltZF0jc1pfdFNpN.jpg",Togo
+https://vidrame.pro/vr/get/6998b977/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDm_YVlZ-fZReXFjkWZGDkZ0xkYsHWQ7Ejm4200ZfdFNpN.jpg",Muhtesem Showman
+https://faf85786.545645.xyz/file/snwaxdop/The.Greatest.Showman.2017.DUAL.mkv
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDAmH0efwXYwoWQsZXlx0hPttd83XiQZyBZmnf0ZfdFNpN.jpg",Blind Side
+https://vidrame.pro/vr/get/8939bf6a/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://hdfilmcehennemi.so/wp-content/themes/filmplus/tm/Xmp2ZUQDA00mFsVVQjaXQwpi84tdFiZ1pt8YZ_Y2qP7218fdFNpN.jpg",Point Break
+https://vidrame.pro/vr/get/c7f36825/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/4-venom-hd-film-izle.webp",Venom
+https://vidrame.pro/vr/get/2e79093d/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/venom-let-there-be-carnage.webp",Venom 2
+https://a2.vidload.lol/169/1080p.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gladyator-izle-hd.webp",Gladyator
+https://a3.vidload.lol/1322/1080p.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/1-deadpool-1-hd-film-izle.webp",Deadpool
+https://a2.vidload.lol/176/1080p.m3u8
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/2-hd-film-deadpool-2-super-duper-cut-izle.webp",Deadpool 2
+https://vidrame.pro/vr/get/b06bb918/1080.txt
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/deadpool-3.webp",Deadpool 3
+https://a2.vidload.lol/3724/1080p.m3u8
+#EXTINF:-1 group-title="Film-Animasyon" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5C8D13FFDEA93C10069A51DDA07050A362726ADCA060AACEE5DACB61CD3F7891/scale?width=1200&aspectRatio=1.78&format=webp",WALL·E
+https://vidrame.pro/vr/get/58390cad/1080.txt
+#EXTINF:-1 group-title="Film-Animasyon" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/ters-yuz-film-izle-hd.webp",Ters Yuz
+https://a3.vidload.lol/1055/1080p.m3u8
+#EXTINF:-1 group-title="Film-Animasyon" tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inside-out-2.webp",Ters Yuz 2
+https://vidrame.pro/vr/get/968e8cf1/1080.txt
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_.jpg"group-title="Predator",Predator 1987
+https://vidmody.com/vs/tt0093773
+#EXTINF:-1 tvg-logo="https://turkcealtyazi.org/images/poster/1870529.jpg"group-title="",Boyun Eğmeyeceğim 2012
+https://vidmody.com/vs/tt1870529
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/88/92/22/20015833.jpg"group-title="",Duyguların Rengi 2011
+https://vidmody.com/vs/tt1454029
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="",Black Adam 2022
+https://vidmody.com/vs/tt6443346
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/20/2008220-129035389.jpg"group-title="",Sevgi Fırtınası 2008
+https://vidmody.com/vs/tt0956038
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/21/08/30/10/43/0541548.jpg"group-title="",Bir Orduya Bedel 2020
+https://vidmody.com/vs/tt7153488
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/21/07/26/12/28/4806908.jpg"group-title="",The Suicide Squad: İntihar Timi 2021
+https://vidmody.com/vs/tt6334354
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/26/2010526-704226332.jpg"group-title="",Tron efsanesi 2010
+https://vidmody.com/vs/tt1104001
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_.jpg"group-title="Predator",The Predator 2018
+https://vidmody.com/vs/tt3829266
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/22/06/07/16/22/5278876.jpg"group-title="Predator",Prey 2022
+https://vidmody.com/vs/tt11866324
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/210/029/21002971_20130503091714152.jpg"group-title="",Felekten Bir Gece 3 2013
+https://vidmody.com/vs/tt1951261
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/147508.jpg"group-title="",Felekten Bir Gece 2 2011
+https://vidmody.com/vs/tt1411697
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/131394.jpg"group-title="",Felekten Bir Gece 2009
+https://vidmody.com/vs/tt1119646
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY1NTZhMDUtMzJhNi00ZWZiLWJkZDMtNmVlMmM2ZTdjYzg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="",Winner 2024
+https://vidmody.com/vs/tt11433906
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/03/4063.jpg"group-title="",12 Kızgın Adam (1957)
+https://vidmody.com/vs/tt0050083
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/13/12/09/20/49/177859.jpg"group-title="",12 Maymun 1995
+https://vidmody.com/vs/tt0114746
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/111138.jpg"group-title="",1408 Numaralı oda 2007
+https://vidmody.com/vs/tt0450385
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_FMjpg_UX1000_.jpg"group-title="",2012 2009
+https://vidmody.com/vs/tt1190080
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGVhMWQ5ZTYtODE0NC00MTU0LWIxMGEtMjhiNmY1MmQ5NjhjXkEyXkFqcGc@._V1_.jpg"group-title="",5 Kat Yukarı 2014
+https://vidmody.com/vs/tt2933544
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/25532.jpg"group-title="",60 Saniye 2000
+https://vidmody.com/vs/tt0187078
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/92/87/20059905.jpg"group-title="Açlık Oyunları",Açlık Oyunları - The Hunger Games 2012
+https://vidmody.com/vs/tt1392170
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/210/512/21051270_20131021162051824.jpg"group-title="Açlık Oyunları",Açlık Oyunları 2 Ateşi Yakalamak 2013
+https://vidmody.com/vs/tt1951264
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/11/03/15/22/530993.jpg"group-title="Açlık Oyunları",Açlık Oyunları 3 Alaycı Kuş Bölüm 1 2014
+https://vidmody.com/vs/tt1951265
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/15/10/23/15/48/155491.jpg"group-title="Açlık Oyunları",Açlık Oyunları Alaycı Kuş Bölüm 2 2015
+https://vidmody.com/vs/tt1951266
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/img/4a/11/4a117a4622e98ed7cd3f3e3d76b9c1c1.jpg"group-title="",Ad Vitam 2025
+https://vidmody.com/vs/tt32138452
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/55792.jpg"group-title="",Ada (2005)
+https://vidmody.com/vs/tt0399201
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/319838497/s718/adanin-buyusu.jpg"group-title="",Adanın Büyüsü 2012
+https://vidmody.com/vs/tt1839654
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/23/01/06/10/14/5309755.jpg"group-title="",Ah Siz İnsanlar 2023
+https://vidmody.com/vs/tt14826022
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/130203.jpg"group-title="",Ajan Salt 2010
+https://vidmody.com/vs/tt0944835
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/28384.jpg"group-title="",Akıl Oyunları 2001
+https://vidmody.com/vs/tt0268978
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/112381.jpg"group-title="",Altın Pusula 2007
+https://vidmody.com/vs/tt0385752
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/22092.jpg"group-title="",Altıncı His 1999
+https://vidmody.com/vs/tt0167404
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/17/09/11/15/01/2705133.jpg"group-title="",Anne! 2017
+https://vidmody.com/vs/tt5109784
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjFhYTRkMzQtMDgwNi00MGQ2LWE4NDctMGJiOTgxZDg1MWQ0XkEyXkFqcGc@._V1_.jpg"group-title="",Annemin Yeni Sevgilisi 2008
+https://vidmody.com/vs/tt0780534
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/23/12/18/08/22/3262961.jpg"group-title="",Aquaman 2 Kayıp Krallık 2023
+https://vidmody.com/vs/tt9663764
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_FMjpg_UX1000_.jpg"group-title="",Aranıyor 2008
+https://vidmody.com/vs/tt0493464
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/43/1999043-542061248.jpg"group-title="",Aşkın Gücü 1998
+https://vidmody.com/vs/tt0120889
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/65/2010865-430731629.jpg"group-title="",Ateşli Oda 2010
+https://vidmody.com/vs/tt1263750
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/img/3f/0a/3f0af076b58e832bdb7db76cf3e7d6bd.jpg"group-title="",Avcı Kraven 2024
+https://vidmody.com/vs/tt8790086
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/23/07/28/15/51/3425570.jpg"group-title="",Başkalarının Çocukları 2023
+https://vidmody.com/vs/tt15403712
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/143692.jpg"group-title="",Başlangıç 2010
+https://vidmody.com/vs/tt1375666
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/69/2008169-88561463.jpg"group-title="",Batman 2 Kara Şövalye 2008
+https://vidmody.com/vs/tt0468569
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/51539.jpg"group-title="",Bay ve Bayan Smith 2005
+https://vidmody.com/vs/tt0356910
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/105557.jpg"group-title="",Ben Efsaneyim 2007
+https://vidmody.com/vs/tt0480249
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/23/05/24/09/43/5316500.jpg"group-title="",Büyü de Gel 2023
+https://vidmody.com/vs/tt15671028
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/22/10/06/17/43/1228806.jpg"group-title="",Causeway 2022
+https://vidmody.com/vs/tt10192406
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/r_1920_1080/pictures/22/07/29/18/27/3317751.jpg"group-title="",Cennet Otoyolu 2022
+https://vidmody.com/vs/tt7469828
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/22/09/01/14/20/5693838.jpg"group-title="",Cennete Bilet 2022
+https://vidmody.com/vs/tt14109724
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg"group-title="Çığlık",Çığlık 1996
+https://vidmody.com/vs/tt0117571
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/18102.jpg"group-title="Çığlık",Çığlık 2 1997
+https://vidmody.com/vs/tt0120082
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/r_1280_720/medias/nmedia/18/36/12/90/18454868.jpg"group-title="Çığlık",Çığlık 3 2000
+https://vidmody.com/vs/tt0134084
+#EXTINF:-1 tvg-logo="https://farm6.static.flickr.com/5172/5409839626_5e3649bdfc_z.jpg"group-title="Çığlık",Çığlık 4 2011
+https://vidmody.com/vs/tt1262416
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/21/12/24/08/10/4146367.jpg"group-title="Çığlık",Çığlık 5 2021
+https://vidmody.com/vs/tt11245972
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWZhZWZkMTQtZGY5Mi00MmVhLTk3YzUtOTllYWY5ZjQyNTkxXkEyXkFqcGc@._V1_.jpg"group-title="Mad Max",Çılgın Max 2 (1981)
+https://vidmody.com/vs/tt0082694
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/15/04/27/14/48/596979.jpg"group-title="Mad Max",Çılgın Max Öfkeli Yollar 2015
+https://vidmody.com/vs/tt1392190
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/16/12/13/14/40/320125.jpg"group-title="",Çin Seddi 2016
+https://vidmody.com/vs/tt2034800
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/18/05/03/15/57/5829475.jpg"group-title="",Daha Yeni Başladık 2017
+https://vidmody.com/vs/tt5721088
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/img/c7/5b/c75ba3cfbcbe66a007debc2a6c3662b0.jpg"group-title="Deadpool",Deadpool & Wolverine 2024
+https://vidmody.com/vs/tt6263850
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/16/02/10/16/04/143599.jpg"group-title="Deadpool",Deadpool 1 (2016)
+https://vidmody.com/vs/tt1431045
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/18/04/16/09/03/0903140.jpg"group-title="Deadpool",Deadpool 2 (2018)
+https://vidmody.com/vs/tt5463162
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/17617.jpg"group-title="",Derin Darbe 1998
+https://vidmody.com/vs/tt0120647
+#EXTINF:-1 tvg-logo="https://turkcealtyazi.org/images/poster/0134847.jpg"group-title="Riddick",Derin karanlık 2000
+https://vidmody.com/vs/tt0134847
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/21/11/16/17/48/5468162.jpg"group-title="",Don't Look Up 2021
+https://vidmody.com/vs/tt11286314
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/21189.jpg"group-title="",Dövüş Kulübü 1999
+https://vidmody.com/vs/tt0137523
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/111381.jpg"group-title="",Dünyanın Merkezine Yolculuk 2008
+https://vidmody.com/vs/tt0373051
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/13/12/25/14/19/037157.jpg"group-title="",Düzenbaz 2013
+https://vidmody.com/vs/tt1800241
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRjMGNiYTMtYmI3My00M2UwLTkyYmYtMzQ3YzQyOWIxMGY5XkEyXkFqcGc@._V1_.jpg"group-title="",Edison 2005
+https://vidmody.com/vs/tt0389957
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_FMjpg_UX1000_.jpg"group-title="",Ejderhanı Nasıl Eğitirsin 2 2014
+https://vidmody.com/vs/tt1646971
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg"group-title="",Ejderhanı Nasıl Eğitirsin 2010
+https://vidmody.com/vs/tt0892769
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/47/2011847-45850639.jpg"group-title="",Ejderhanı Nasıl Eğitirsin 3: Gizli Dünya 2019
+https://vidmody.com/vs/tt2386490
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/18598.jpg"group-title="",Er Ryanı Kurtarmak 1998
+https://vidmody.com/vs/tt0120815
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/11736.jpg"group-title="",Esaretin Bedeli 1994
+https://vidmody.com/vs/tt0111161
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/21/10/21/16/49/4124932.jpg"group-title="",Eternals 2021
+https://vidmody.com/vs/tt9032400
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/14/09/24/15/59/192102.jpg"group-title="",Evrim - Transcendence 2014
+https://vidmody.com/vs/tt2209764
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzI3MjM3YjEtNjM5Mi00NTIwLWJkMjktMWRhMjdkYTYwZWI2XkEyXkFqcGc@._V1_.jpg"group-title="",Ezra 2024
+https://vidmody.com/vs/tt20315818
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/18/10/18/14/10/1902884.jpg"group-title="",Fındıkkıran ve Dört Diyar 2018
+https://vidmody.com/vs/tt5523010
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/10568.jpg"group-title="",Forrest Gump 1994
+https://vidmody.com/vs/tt0109830
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/01/13/15/25/546033.jpg"group-title="",Frankenstein Ölümsüzlerin Savaşı (2014)
+https://vidmody.com/vs/tt1418377
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/img/f9/39/f9393cc8c94087495fc45247cdd3516d.jpg"group-title="Mad Max",Furiosa: Bir Mad Max Destanı 2024
+https://vidmody.com/vs/tt12037194
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/33/Back_to_the_Future_%28film%2C_1985%29.jpg"group-title="Geleceğe Dönüş ",Geleceğe Dönüş 1 1985
+https://vidmody.com/vs/tt0088763
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/5247.jpg"group-title="Geleceğe Dönüş ",Geleceğe Dönüş 2 1989
+https://vidmody.com/vs/tt0096874
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/r_1280_720/pictures/14/07/09/11/59/106906.jpg"group-title="Geleceğe Dönüş ",Geleceğe Dönüş 3 1990
+https://vidmody.com/vs/tt0099088
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/83/37/46/19685921.jpg"group-title="",Gerçeğin Parçaları 2010
+https://vidmody.com/vs/tt1399683
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/06/129007.jpeg"group-title="",Gia 1998
+https://vidmody.com/vs/tt0123865
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/04/98/20021671.JPG"group-title="",Gizemli Adaya Yolculuk 2012
+https://vidmody.com/vs/tt1397514
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/15308.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 1 1996
+https://vidmody.com/vs/tt0117060
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFjM2NhMTAtNDU1My00ODUxLTkwMzYtODQzNzM0ODM0ZWQ0XkEyXkFqcGc@._V1_.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 2 2000
+https://vidmody.com/vs/tt0120755
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/28602.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 3 2006
+https://vidmody.com/vs/tt0317919
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/85/02/83/19862625.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 4 Hayalet Protokol 2011
+https://vidmody.com/vs/tt1229238
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/15/07/05/09/59/370461.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 5 2015
+https://vidmody.com/vs/tt2381249
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/18/07/03/10/11/4072324.jpg"group-title="Görevimiz Tehlike ",Görevimiz Tehlike 6 Yansımalar 2018
+https://vidmody.com/vs/tt4912910
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/14/01/23/12/42/531110.jpg"group-title="",Gran Torino 2008
+https://vidmody.com/vs/tt1205489
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/14e3f5ea9ed3ee214fa9f1278e6db74d46d7ba61af98ede0232e1ad347434d06.jpg"group-title="",Günahkar 2001
+https://vidmody.com/vs/tt0218922
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/29276.jpg"group-title="Harry Potter",Harry Potter 1 Felsefe Taşı 2001
+https://vidmody.com/vs/tt0241527
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/13/12/09/19/08/285670.jpg"group-title="Harry Potter",Harry Potter 2 Sırlar Odası 2002
+https://vidmody.com/vs/tt0295297
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/46865.jpg"group-title="Harry Potter",Harry Potter 3 Azkaban Tutsağı 2004
+https://vidmody.com/vs/tt0304141
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/53756.jpg"group-title="Harry Potter",Harry Potter 4 ve Ateş Kadehi
+https://vidmody.com/vs/tt0330373
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/58608.jpg"group-title="Harry Potter",Harry Potter 5 Zümrüdüanka Yoldaşlığı 2007
+https://vidmody.com/vs/tt0373889
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/116305.jpg"group-title="Harry Potter",Harry Potter 6 Melez Prens 2009
+https://vidmody.com/vs/tt0417741
+#EXTINF:-1 tvg-logo="https://img.fullhdfilmizlesene.de/poster/original/cry-macho-41670.jpg"group-title="",Hassas Maço 2021
+https://vidmody.com/vs/tt1924245
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/64439.jpg"group-title="",Hayat Güzeldir 1997
+https://vidmody.com/vs/tt0118799
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/15/11/06/13/05/051069.jpg"group-title="",Hayatın Kıyısında 2015
+https://vidmody.com/vs/tt3707106
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/85/16/28/20326471.jpg"group-title="Hobbit",Hobbit 1 Beklenmedik Yolculuk 2012
+https://vidmody.com/vs/tt0903624
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/210/562/21056253_20131108151938568.jpg"group-title="Hobbit",Hobbit 2 Smaug'un Çorak Toprakları 2013
+https://vidmody.com/vs/tt1170358
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/12/17/14/24/164627.jpg"group-title="Hobbit",Hobbit 3 Beş Ordunun Savaşı 2014
+https://vidmody.com/vs/tt2310332
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/23/06/27/12/08/4788553.jpg"group-title="",Indiana Jones ve Kader Kadranı 2023
+https://vidmody.com/vs/tt1462764
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/03/60285.jpg"group-title="",İçerideki Adam 2006
+https://vidmody.com/vs/tt0454848
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/86/62/89/19861679.jpg"group-title="",İçinde Yaşadığım Deri 2011
+https://vidmody.com/vs/tt1189073
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/19/09/11/16/43/1511539.jpg"group-title="",Joker 2019
+https://vidmody.com/vs/tt7286456
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/15/12/15/14/46/085245.jpg"group-title="",Joy 2015
+https://vidmody.com/vs/tt2446980
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/13970.jpg"group-title="Jumanji",Jumanji 1 1995
+https://vidmody.com/vs/tt0113497
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/17/12/08/15/25/1219981.jpg"group-title="Jumanji",Jumanji 2 : Vahşi Orman 2017
+https://vidmody.com/vs/tt2283362
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/19/12/09/10/14/1288309.jpg"group-title="Jumanji",Jumanji 3 Yeni Seviye 2019
+https://vidmody.com/vs/tt7975244
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/18/10/25/09/39/1218642.jpg"group-title="",Kaçakçı 2018
+https://vidmody.com/vs/tt7959026
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/83/09/24/19664851.jpg"group-title="",Kaçış Planı 2011
+https://vidmody.com/vs/tt1458175
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/04/42950.jpg"group-title="",Kan Borcu 2002
+https://vidmody.com/vs/tt0309377
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c1/Kanca_%28film%29_1991_afi%C5%9F.jpg"group-title="",Kanca 1991
+https://vidmody.com/vs/tt0102057
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/83/Kanun_Yolunda.jpg/640px-Kanun_Yolunda.jpg"group-title="",Kanun Yolunda 1977
+https://vidmody.com/vs/tt0076070
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/57/Kap%C4%B1daki_D%C3%BC%C5%9Fman_%28film%29_posteri.jpg"group-title="",Kapıdaki Düşman 2001
+https://vidmody.com/vs/tt0215750
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2e/Underworld_movie_poster.jpg"group-title="Karanlıklar Ülkesi ",Karanlıklar Ülkesi 1 2003
+https://vidmody.com/vs/tt0320691
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie/poster/300x429/94/2006194-12034148.jpg"group-title="Karanlıklar Ülkesi ",Karanlıklar Ülkesi 2 Evrim 2006
+https://vidmody.com/vs/tt0401855
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/63/2009063-928693131.jpg"group-title="Karanlıklar Ülkesi ",Karanlıklar Ülkesi 3 Lycanların Yükselişi 2009
+https://vidmody.com/vs/tt0834001
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/12/2010512-502097825.jpg"group-title="Karanlıklar Ülkesi ",Karanlıklar Ülkesi 4 Uyanış 2012
+https://vidmody.com/vs/tt1496025
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/16/11/14/14/34/437245.jpg"group-title="Karanlıklar Ülkesi ",Karanlıklar Ülkesi 5 Kan Savaşları 2016
+https://vidmody.com/vs/tt3717252
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/46117.jpg"group-title="Karayip Korsanları",Karayip Korsanları 1 Siyah İncinin Laneti 2003
+https://vidmody.com/vs/tt0325980
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/bzp/01/57138.jpg"group-title="Karayip Korsanları",Karayip Korsanları 2 Ölü Adamın Sandığı 2006
+https://vidmody.com/vs/tt0383574
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/57139.jpg"group-title="Karayip Korsanları",Karayip Korsanları 3 Dünyanın Sonu 2007
+https://vidmody.com/vs/tt0449088
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/84/05/33/19771364.jpg"group-title="Karayip Korsanları",Karayip Korsanları 4 Gizemli Denizlerde 2011
+https://vidmody.com/vs/tt1298650
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ea/Karayip_Korsanlar%C4%B1_Salazar%E2%80%99%C4%B1n_%C4%B0ntikam%C4%B1_T%C3%BCrk%C3%A7e_Afi%C5%9F.jpg"group-title="Karayip Korsanları",Karayip Korsanları 5 Salazar'ın Intikamı 2017
+https://vidmody.com/vs/tt1790809
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/15/07/01/11/06/239706.jpg"group-title="Karınca Adam",Karınca Adam (2015)
+https://vidmody.com/vs/tt0478970
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/18/06/08/14/41/3486597.jpg"group-title="Karınca Adam",Karınca Adam 2 Wasp (2018)
+https://vidmody.com/vs/tt5095030
+#EXTINF:-1 tvg-logo="https://filmperisi.com/yuklemeler/2021/12/Kartal_Yuvasi-scaled.jpg"group-title="",Kartal Yuvası 1968
+https://vidmody.com/vs/tt0065207
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/04/60/91/046091_af.jpg"group-title="",Kemik Koleksiyoncusu 1999
+https://vidmody.com/vs/tt0145681
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/r_1280_720/medias/nmedia/18/35/50/74/18407431.jpg"group-title="",Kır Zincirlerini 2005
+https://vidmody.com/vs/tt0342258
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/18/01/26/15/45/4371294.jpg"group-title="",Kızıl Serçe 2018
+https://vidmody.com/vs/tt2873282
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/47165.jpg"group-title="",Kızımı Kurtarın 2007
+https://vidmody.com/vs/tt0452623
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/05/8495.jpg"group-title="",Kızları Öp 1997
+https://vidmody.com/vs/tt0119468
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/96/05/52/20542785.jpg"group-title="",Kod Adı Olympus 2013
+https://vidmody.com/vs/tt2302755
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/16/02/05/09/27/390712.jpg"group-title="",Kod Adı: Londra 2016
+https://vidmody.com/vs/tt3300542
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/55603.jpg"group-title="",Koku Bir Katilin Hikayesi 2006
+https://vidmody.com/vs/tt0396171
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/medias/nmedia/18/84/19/80/19730261.jpg"group-title="Kung Fu Panda",Kung Fu Panda 2 2011
+https://vidmody.com/vs/tt1302011
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/45889.jpg"group-title="Kung Fu Panda",Kung Fu Panda 2008
+https://vidmody.com/vs/tt0441773
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/16/02/28/22/57/383729.jpg"group-title="Kung Fu Panda",Kung Fu Panda 3 2016
+https://vidmody.com/vs/tt2267968
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/02/207025.jpg"group-title="Kung Fu Panda",Kung Fu Panda Bayram 2010
+https://vidmody.com/vs/tt1702433
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWYyNTdmNmUtY2Q5Yy00ZmUwLWJkZTYtNDIzZjE4OTA2Y2MyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Kung Fu Panda",Kung Fu Panda: Ustaların Sırrı 2011
+https://vidmody.com/vs/tt1980162
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/6641.jpg"group-title="",Kuzuların Sessizliği 1991
+https://vidmody.com/vs/tt0102926
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/210/456/21045648_20131001143658475.jpg"group-title="",Last Vegas 2013
+https://vidmody.com/vs/tt1204975
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/17/01/31/09/54/531088.jpg"group-title="X-Men",Logan (2017)
+https://vidmody.com/vs/tt3315342
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/14/06/20/07/47/502900.jpg"group-title="",Lucy 2014
+https://vidmody.com/vs/tt2872732
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_FMjpg_UX1000_.jpg"group-title="Mad Max",Mad Max 1 (1979)
+https://vidmody.com/vs/tt0079501
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Mad Max",Mad Max 3 - Mad Max Beyond Thunderdome 1985
+https://vidmody.com/vs/tt0089530
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/03/11/12/16/409785.jpg"group-title="Malefiz",Malefiz 1 2014
+https://vidmody.com/vs/tt1587310
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/19/10/14/15/55/0450718.jpg"group-title="Malefiz",Malefiz 2 Kötülüğün Gücü 2019
+https://vidmody.com/vs/tt4777008
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/126412.jpg"group-title="",Marley ve Ben 2008
+https://vidmody.com/vs/tt0822832
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/15/09/28/21/13/009841.jpg"group-title="",Marslı 2015
+https://vidmody.com/vs/tt3659388
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/94/2014994-65742628.jpg"group-title="",Maymunlar Cehennemi: Yeni Krallık 2024
+https://vidmody.com/vs/tt11389872
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d3/Million_Dollar_Baby_poster.jpg"group-title="",Milyonluk Bebek 2004
+https://vidmody.com/vs/tt0405159
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/15/09/15/12/53/226194.jpg"group-title="",Minyonlar 2015
+https://vidmody.com/vs/tt2293640
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/29118.jpg"group-title="",Monte Cristo Kontu 2002
+https://vidmody.com/vs/tt0245844
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/20153.jpg"group-title="Mumya",Mumya 1 1999
+https://vidmody.com/vs/tt0120616
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/03/27430.jpg"group-title="Mumya",Mumya 2 Geri Dönüyor 2001
+https://vidmody.com/vs/tt0209163
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/119031.jpg"group-title="Mumya",Mumya 3 Ejder İmparatorunun Mezarı 2008
+https://vidmody.com/vs/tt0859163
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/7f/Mutlak_G%C3%BC%C3%A7_%28film%29.jpg"group-title="",Mutlak Güç 1997
+https://vidmody.com/vs/tt0118548
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/03/130318.jpg"group-title="Müzede Bir Gece",Müzede Bir Gece 2 (2009)
+https://vidmody.com/vs/tt1078912
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/14/09/05/14/08/139442.jpg"group-title="Müzede Bir Gece",Müzede Bir Gece 3 Lahitteki Sır (2014)
+https://vidmody.com/vs/tt2692250
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/109640.jpg"group-title="Müzede Bir Gece",Müzede Bir Gece1 ( 2006)
+https://vidmody.com/vs/tt0477347
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJkZjVlZDYtM2NmNi00ZjBjLTliOTUtZTIzNTA3N2M2N2M5XkEyXkFqcGc@._V1_.jpg"group-title="",Nişancı 2024
+https://vidmody.com/vs/tt12598606
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/img/e1/16/e116215b410b82bdd618e6112cdb1219.png"group-title="",Nosferatu 2025
+https://vidmody.com/vs/tt5040012
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/medias/nmedia/18/95/17/22/20516221.jpg"group-title="",Oblivion 2013
+https://vidmody.com/vs/tt1483013
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/23/02/20/07/24/5727154.jpg"group-title="",Öldürme Ritüeli 2023
+https://vidmody.com/vs/tt13141250
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/21/04/07/17/00/0670093.jpg"group-title="",Ölmemi İsteyenler 2021
+https://vidmody.com/vs/tt3215824
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/bzp/01/5280.jpg"group-title="",Ölü Ozanlar Derneği 1989
+https://vidmody.com/vs/tt0097165
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/r_1280_720/medias/nmedia/18/63/77/02/18858494.jpg"group-title="",Ölümsüz Savaşcı 2007
+https://vidmody.com/vs/tt0442933
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTdkZmU5ZWEtNTFkZC00MjBjLWJmN2YtYWRjYWZlZTVlNzM0XkEyXkFqcGc@._V1_.jpg"group-title="",Özgürlük Uğruna 2016
+https://vidmody.com/vs/tt4838486
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/01/24/10/55/409246.jpg"group-title="",Para Avcısı 2013
+https://vidmody.com/vs/tt0993846
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c5e3ce40c936e9061c0b28783dfb0cd5389d96c7034936052e8562148ef5b33e.jpg"group-title="",Profesyonel 2015
+https://vidmody.com/vs/tt3181776
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/134678.jpg"group-title="Recep İvedik",Recep İvedik 1 (2008)
+https://vidmody.com/vs/tt1193516
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY0MzkzNjgtNDliYi00NWIzLWJhZDItNjdiMzc2OGY2MTFhXkEyXkFqcGc@._V1_.jpg"group-title="Recep İvedik",Recep İvedik 2 (2009)
+https://vidmody.com/vs/tt1373215
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/21/Recep_%C4%B0vedik_3.jpeg"group-title="Recep İvedik",Recep İvedik 3 (2010)
+https://vidmody.com/vs/tt1577061
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/01/29/12/43/317985.jpg"group-title="Recep İvedik",Recep İvedik 4 (2014)
+https://vidmody.com/vs/tt3477064
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWJiMTQzYTAtNTdlNC00MTRhLTk5N2UtMmI1ZmZhOWI5NjBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Recep İvedik",Recep İvedik 5 (2017)
+https://vidmody.com/vs/tt6439558
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzZjZjkwOWItY2U5NS00Yzg0LWI0YmUtZWQwODM2ODZlNzIxXkEyXkFqcGc@._V1_.jpg"group-title="Recep İvedik",Recep İvedik 6 (2019)
+https://vidmody.com/vs/tt7399138
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM4NzZiMzctM2M3OS00MWNhLWFiYzQtODRjMTEzYWVmMTc4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Recep İvedik",Recep İvedik 7 (2022)
+https://vidmody.com/vs/tt19759204
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/05/146229.jpg"group-title="",Red 2010
+https://vidmody.com/vs/tt1245526
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/41134.jpg"group-title="Riddick",Riddick Günlükleri 2004
+https://vidmody.com/vs/tt0296572
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTgwNDkyYzEtMWQ2Ni00OWNiLTk0ZGMtZmYyNTJlMWVjOTM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="",Rita Moreno: Kararlı Bir Kız 2021
+https://vidmody.com/vs/tt10741846
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/img/25/0e/250e2b3f13b67c286c6980af365f807f.jpg"group-title="",Robot Düşleri 2024
+https://vidmody.com/vs/tt13429870
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/268953451/s718/shadows-in-my-eyes.jpg"group-title="",Savaşın Gölgeleri 2021
+https://vidmody.com/vs/tt9170516
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/14/11/03/14/13/414199.jpg"group-title="",Serena 2014
+https://vidmody.com/vs/tt1247690
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/c_310_420/pictures/18/03/21/15/11/4646862.jpg"group-title="Sessiz Bir Yer ",Sessiz Bir Yer 1 2018
+https://vidmody.com/vs/tt6644200
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/21/07/12/09/32/4456360.jpg"group-title="Sessiz Bir Yer ",Sessiz Bir Yer 2 2020
+https://vidmody.com/vs/tt8332922
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/img/02/05/0205d08522a543d058d577e829535d10.jpg"group-title="Sessiz Bir Yer ",Sessiz Bir Yer 3 Birinci Gün 2024
+https://vidmody.com/vs/tt13433802
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3Mzg0NDE0MV5BMl5BanBnXkFtZTgwNzQ1MzgyMjI@._V1_.jpg"group-title="",Sevginin Gücü 1994
+https://vidmody.com/vs/tt0110413
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/5969.jpg"group-title="",Sıkı Dostlar 1990
+https://vidmody.com/vs/tt0099685
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8a/S%C4%B1n%C4%B1rlar%C4%B1n_%C3%96tesinde_2003_film_afi%C5%9F.jpg"group-title="",Sınırların Ötesinde 2003
+https://vidmody.com/vs/tt0294357
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/r_1280_720/medias/nmedia/18/35/23/53/18379037.jpg"group-title="",Sky Captain ve Yarının Dünyası 2004
+https://vidmody.com/vs/tt0346156
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/img/47/f8/47f894a201dde041674b2706be4224f2.jpg"group-title="",Slingshot 2024
+https://vidmody.com/vs/tt12616480
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/60208.jpg"group-title="",Soysuzlar Çetesi 2009
+https://vidmody.com/vs/tt0361748
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODhmZjE0MGUtZDViYy00NGIyLWI5YjctZWNmNTcyNjhmOGJhXkEyXkFqcGc@._V1_.jpg"group-title="",Submarino 2010
+https://vidmody.com/vs/tt1322385
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzkyZDk3ODItNjU0ZC00NmM5LWE2MzMtNmYxYmNkZDkzNjczXkEyXkFqcGc@._V1_.jpg"group-title="",Suçlu 2018
+https://vidmody.com/vs/tt6742252
+#EXTINF:-1 tvg-logo="https://webteizle.info/i/afis/b/a11794.jpg"group-title="",Şekermi Şakamı 2008
+https://vidmody.com/vs/tt0862856
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/03/27415.jpg"group-title="Şrek ",Şrek 1 2001
+https://vidmody.com/vs/tt0126029
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI5MTM2MDA3MF5BMl5BanBnXkFtZTcwMjI4MzYyMw@@._V1_.jpg"group-title="Şrek ",Şrek 2 2004
+https://vidmody.com/vs/tt0298148
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/03/55718.jpg"group-title="Şrek ",Şrek 3 2007
+https://vidmody.com/vs/tt0413267
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/57212.jpg"group-title="Şrek ",Şrek 4 Sonsuza Dek Mutlu 2010
+https://vidmody.com/vs/tt1794954
+#EXTINF:-1 tvg-logo="https://static.boxofficeturkiye.com/movie//poster/full/21/2010321-364160014.jpg"group-title="",Tanrının Kitabı 2010
+https://vidmody.com/vs/tt1037705
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="Terminator ",Terminator 1 1984
+https://vidmody.com/vs/tt0088247
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/17/05/17/16/37/083713.jpg"group-title="Terminator ",Terminator 2 Mahşer Günü 1991
+https://vidmody.com/vs/tt0103064
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/26840.jpg"group-title="Terminator ",Terminator 3 Makinelerin Yükselişi 2003
+https://vidmody.com/vs/tt0181852
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/57405.jpg"group-title="Terminator ",Terminator 4 Kurtuluş 2009
+https://vidmody.com/vs/tt0438488
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/c_310_420/pictures/15/05/07/15/13/184021.jpg"group-title="Terminator ",Terminator 5 Genisys 2015
+https://vidmody.com/vs/tt1340138
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/19/10/14/12/50/4506295.jpg"group-title="Terminator ",Terminator 6 Kara Kader 2019
+https://vidmody.com/vs/tt6450804
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWU1NDJlYWUtYWE1OC00MGVlLTliNzYtMjg4OTk0MWE4MDQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="",The Adam Project 2022
+https://vidmody.com/vs/tt2463208
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/20/10/19/10/13/5704457.jpg"group-title="",The Comeback Trail 2020
+https://vidmody.com/vs/tt5420210
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/210/057/21005789_20130514174658803.jpg"group-title="X-Men",The Wolverine 2013
+https://vidmody.com/vs/tt1430132
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/07/Troy-poster.jpg"group-title="",Truva 2004
+https://vidmody.com/vs/tt0332452
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/16/11/17/14/42/364666.jpg"group-title="",Uzay Yolcuları 2016
+https://vidmody.com/vs/tt1355644
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg"group-title="",V for Vendetta 2005
+https://vidmody.com/vs/tt0434409
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGU3YjM0YmItZjJiYi00NTc3LTgxNWQtYWMwYzkyODdkNTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="",Vanquish 2021
+https://vidmody.com/vs/tt5932368
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg"group-title="Venom",Venom 3 Son Dans 2024
+https://vidmody.com/vs/tt16366836
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/04/26301.jpg"group-title="",Vur Emri 2000
+https://vidmody.com/vs/tt0160797
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/111544.jpg"group-title="X-Men",X Men 4 Başlangıç Wolverine 2009
+https://vidmody.com/vs/tt0458525
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/140894.jpg"group-title="X-Men",X Men 5 Birinci Sınıf 2011
+https://vidmody.com/vs/tt1270798
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/19/03/14/12/41/3920043.jpg"group-title="X-Men",X Men Dark Phoenix 2019
+https://vidmody.com/vs/tt6565702
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/4/43/X-Men-Apocalypse.jpg/640px-X-Men-Apocalypse.jpg"group-title="X-Men",X Men Kıyamet 2016
+https://vidmody.com/vs/tt3385516
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/c_310_420/pictures/bzp/01/900.jpg"group-title="",Yaralı Yüz 1983
+https://vidmody.com/vs/tt0086250
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/14/05/08/16/45/049226.jpg"group-title="",Yarının Sınırında 2014
+https://vidmody.com/vs/tt1631867
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/13892.jpg"group-title="",Yedi Ölümcül Günah 1995
+https://vidmody.com/vs/tt0114369
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/medias/nmedia/18/85/49/05/20085945.jpg"group-title="Yenilmezler ",Yenilmezler 1 2012
+https://vidmody.com/vs/tt0848228
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/15/08/06/07/51/269807.jpg"group-title="Yenilmezler ",Yenilmezler 2 Ultron Çağı 2015
+https://vidmody.com/vs/tt2395427
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/18/03/16/15/01/4344531.jpg"group-title="Yenilmezler ",Yenilmezler 3 Sonsuzluk Savaşı 2018
+https://vidmody.com/vs/tt4154756
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/19/03/28/11/29/4805705.jpg"group-title="Yenilmezler ",Yenilmezler 4 Son Oyun 2019
+https://vidmody.com/vs/tt4154796
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/22779.jpg"group-title="",Yeşil Yol 1999
+https://vidmody.com/vs/tt0120689
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/14/10/09/15/52/150664.jpg"group-title="",Yıldızlararası 2014
+https://vidmody.com/vs/tt0816692
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/bzp/01/27070.jpg"group-title="Yüzüklerin Efendisi ",Yüzüklerin Efendisi 1 Yüzük Kardeşliği 2001
+https://vidmody.com/vs/tt0120737
+#EXTINF:-1 tvg-logo="https://tr.web.img3.acsta.net/pictures/bzp/01/39186.jpg"group-title="Yüzüklerin Efendisi ",Yüzüklerin Efendisi İki Kule 2002
+https://vidmody.com/vs/tt0167261
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/28/Y%C3%BCz%C3%BCklerinEfendisi%27Kral%C4%B1nD%C3%B6n%C3%BC%C5%9F%C3%BC-film.jpg/800px-Y%C3%BCz%C3%BCklerinEfendisi%27Kral%C4%B1nD%C3%B6n%C3%BC%C5%9F%C3%BC-film.jpg"group-title="Yüzüklerin Efendisi ",Yüzüklerin Efendisi Kralın Dönüşü 2003
+https://vidmody.com/vs/tt0167260
+#EXTINF:-1 tvg-logo="https://tr.web.img4.acsta.net/pictures/19/05/08/12/25/3046483.jpg"group-title="",Zehirli Gül 2019
+https://vidmody.com/vs/tt5862166
+#EXTINF:-1 tvg-logo="https://tr.web.img2.acsta.net/pictures/bzp/01/132039.jpg"group-title="",Zindan Adası 2010
+https://vidmody.com/vs/tt1130884
+
+
