@@ -63,10 +63,14 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-name="ATV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV
-https://c.fulltvizle.com/aytv/index.m3u8
-
-#EXTINF:-1 tvg-name="ATV2" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV2
+#https://c.fulltvizle.com/aytv/index.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
+#http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+
+
 
 #EXTINF:-1 tvg-name="ATV3" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV3
 https://x.canlitvapp.com/aytv/tracks-v1a1/mono.m3u8?token=44dec520e35614af4260409bf6e6e3f2fa9d0f29-e0b794af86b26e9b55bb0ca052246235-1734036602-1734025802
@@ -77,9 +81,6 @@ https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
 #EXTINF:-1 tvg-name="TV 8" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_TV8" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Genel",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Beyaz TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_BeyazTV" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Genel",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
