@@ -16,7 +16,7 @@ http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17594
 http://stream.tvcdn.net/ulusal/halk-tv.m3u8
 
 #EXTINF:-1 tvg-id="sozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="DeaTHLesS KRAL",sozcu TV
-http://stream.tvcdn.net/ulusal/sozcu-tv.m3u8
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-id="showTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="DeaTHLesS KRAL",show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
