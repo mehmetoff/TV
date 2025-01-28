@@ -66,15 +66,9 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #https://c.fulltvizle.com/aytv/index.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 
-#EXTINF:-1 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_KanalD" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Genel",Kanal D
-#http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-name="ATV3" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ATV" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Genel",ATV3
-https://x.canlitvapp.com/aytv/tracks-v1a1/mono.m3u8?token=44dec520e35614af4260409bf6e6e3f2fa9d0f29-e0b794af86b26e9b55bb0ca052246235-1734036602-1734025802
-
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="DeaTHLesS KRAL",Kanal D
+#https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 #EXTINF:-1 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_ShowTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="Genel",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
