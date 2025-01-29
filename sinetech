@@ -205,14 +205,9 @@ http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuklar İçin",TRT Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 
-#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Çocuklar İçin",TRT EBA Ilkokul (720p)
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Çocuklar İçin",TRT EBA Lise (720p)
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="https://i.imgur.com/kZxb8Zz.png" group-title="Çocuklar İçin",TRT EBA Ortaokul (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
 
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuklar İçin",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
