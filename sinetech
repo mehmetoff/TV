@@ -27,7 +27,7 @@ https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 #http://stream.tvcdn.net/ulusal/halk-tv.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 
-#EXTINF:-1 tvg-id="sozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Ulusal",sozcu TV
+#EXTINF:-1 tvg-id="sozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Ulusal",Sözcü TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 
 #EXTINF:-1 tvg-id="showTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",show TV
@@ -87,16 +87,16 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 #EXTINF:-1 tvg-id="TRTulusal.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Ulusal",TRT ulusal
 http://stream.tvcdn.net/ulusal/trt-ulusal.m3u8
 
-#EXTINF:-1 tvg-id="Aulusal.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Ulusal",A ulusal
+#EXTINF:-1 tvg-id="Aulusal.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Ulusal",A
 http://stream.tvcdn.net/ulusal/a-ulusal.m3u8
 
-#EXTINF:-1 tvg-id="TGRTulusal.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Ulusal",TGRT ulusal
+#EXTINF:-1 tvg-id="TGRTulusal.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Ulusal",TGRT
 http://stream.tvcdn.net/ulusal/tgrt-ulusal.m3u8
 
 #EXTINF:-1 tvg-id="ulusalturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Ulusal",ulusalturk
 http://stream.tvcdn.net/ulusal/ulusalturk.m3u8
 
-#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Ulusal",ulusal Global
+#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Ulusal", Global
 http://stream.tvcdn.net/ulusal/ulusal-global.m3u8
 
 #EXTINF:-1 tvg-id="ulkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Ulusal",ulke TV
@@ -111,7 +111,7 @@ http://stream.tvcdn.net/ulusal/tele-1.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Ulusal",TVNET
 http://stream.tvcdn.net/ulusal/tvnet.m3u8
 
-#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Ulusal",Flash ulusal
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Ulusal",Flash 
 http://stream.tvcdn.net/ulusal/flash-ulusal.m3u8
 
 #EXTINF:-1 tvg-id="ulusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Ulusal",ulusal Kanal
