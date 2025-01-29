@@ -1,5 +1,6 @@
 Türkçe yayın gösteren televizyon kanalları  Yayın linkleri
 
+https://github.com/ipstreet312/freeiptv
 https://iptv-org.github.io/iptv/countries/tr.m3u
 
 http://stream.tvcdn.net/lists/tr.m3u
