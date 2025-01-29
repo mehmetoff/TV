@@ -91,7 +91,6 @@ http://stream.tvcdn.net/ulusal/ulke-tv.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Ulusal",24 TV
 http://stream.tvcdn.net/ulusal/24-tv.m3u8
 
-
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Ulusal",Tele 1
 http://stream.tvcdn.net/ulusal/tele-1.m3u8
 
@@ -163,7 +162,7 @@ http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD " tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Nat_Geo_Wild_logo.png" group-title="Belgesel",TR: NAT GEO WILD 
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD " tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Nat_Geo_Wild_HD_logo.png#/media/Dosya:Nat_Geo_Wild_logo.png" group-title="Belgesel",TR: NAT GEO WILD 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC " tvg-logo="" group-title="Belgesel",TR: NATIONAL GEOGRAPHIC 
