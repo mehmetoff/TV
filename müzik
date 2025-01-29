@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="Muzik",KRAL - KRAL POP
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="Muzik",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="Muzik",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="Muzik",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="Muzik",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Muzik",TRT Muzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+
+#EXTINF:-1 tvg-name="Slow karadeniz "tvg-id=""tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp"group-title="Muzik":http-referrer="":http-user-agent="",Slow karadeniz 
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" group-title="Muzik",Dream Turkk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+
+#EXTINF:-1 tvg-name="Power Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_PowerTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c125866ac31da06187d6" group-title="Muzik",Power Türk
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="http://assets.tvcdn.net/ccb54b98-472f-4c36-a48f-46431c84ab6a.png" group-title="Muzik",Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+
+#EXTINF:-1 tvg-id="PowerLove.tr" tvg-logo="http://assets.tvcdn.net/f755a1c1-097f-4692-a7a8-c804da8d1ed5.png" group-title="Muzik",Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="http://assets.tvcdn.net/2005fd7a-ffe1-497a-a56b-ac60bcb3a2a2.png" group-title="Muzik",Powerturk Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="http://assets.tvcdn.net/fcec79e5-9d47-4812-86ac-00728538ad7f.png" group-title="Muzik",Powerturk Slow
+http://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="http://assets.tvcdn.net/ebb82c5c-86ac-4dc5-ba78-b26e536cebf7.png" group-title="Muzik",Powerturk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+
+#EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="Muzik",Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f50d76a9-885f-4659-8dae-ea125469d25a.png" group-title="Muzik",Muzik TV
+http://stream.tvcdn.net/muzik/muzik-tv.m3u8
+
+#EXTINF:-1 tvg-name="Tatlıses TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TatlisesTV" tvg-logo="https://canlitv.center/channels/tatlises-tv.png" group-title="Muzik",Tatlıses TV
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
