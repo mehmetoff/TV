@@ -163,7 +163,7 @@ http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD " tvg-logo="" group-title="Belgesel",TR: NAT GEO WILD 
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD " tvg-logo="https://tr.wikipedia.org/wiki/Dosya:Nat_Geo_Wild_logo.png" group-title="Belgesel",TR: NAT GEO WILD 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: NATIONAL GEOGRAPHIC " tvg-logo="" group-title="Belgesel",TR: NATIONAL GEOGRAPHIC 
