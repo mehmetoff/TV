@@ -128,13 +128,13 @@ http://stream.tvcdn.net/ulusal/cnbc-e.m3u8
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Ulusal",a2
-http://stream.tvcdn.net/eglence/a2.m3u8
+https://c.fulltvizle.com/a2/index.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Ulusal",teve2
 http://stream.tvcdn.net/eglence/teve2.m3u8
 
 #EXTINF:-1 tvg-id="showMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="Ulusal",show Max
-http://stream.tvcdn.net/eglence/show-max.m3u8
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1738164132&st=hkSk54tGABxS9PK5lJjmkQ&tv=1
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Ulusal",TV8.5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
