@@ -48,7 +48,7 @@ http://stream.tvcdn.net/ulusal/ntv.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Ulusal",CNN Turk
 http://stream.tvcdn.net/ulusal/cnn-turk.m3u8
 
-#EXTINF:-1 tvg-name = "Cnn Turk" tvg-language = "Türkçe" tvg-country = "TR" tvg-id = "CNN Türk" tvg-logo = " https://imgur.com/ Bu0Wlge.png " group-title="Ulusal ",Cnn Turk
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Ulusal",CNN Turk
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
@@ -93,10 +93,10 @@ http://stream.tvcdn.net/ulusal/a-ulusal.m3u8
 #EXTINF:-1 tvg-id="TGRTulusal.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="Ulusal",TGRT
 http://stream.tvcdn.net/ulusal/tgrt-ulusal.m3u8
 
-#EXTINF:-1 tvg-id="ulusalturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Ulusal",ulusalturk
+#EXTINF:-1 tvg-id="ulusalturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="Ulusal",Haber turk
 http://stream.tvcdn.net/ulusal/ulusalturk.m3u8
 
-#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Ulusal", Global
+#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Ulusal", Haber-Global
 http://stream.tvcdn.net/ulusal/ulusal-global.m3u8
 
 #EXTINF:-1 tvg-id="ulkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Ulusal",ulke TV
