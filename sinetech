@@ -37,6 +37,9 @@ http://stream.tvcdn.net/ulusal/ntv.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Ulusal",CNN Turk
 http://stream.tvcdn.net/ulusal/cnn-turk.m3u8
 
+#EXTINF:-1 tvg-name = "Cnn Turk" tvg-language = "Türkçe" tvg-country = "TR" tvg-id = "Haber_CNNTurk" tvg-logo = " https://imgur.com/ Bu0Wlge.png " group-title="Haber",Cnn Turk
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 
