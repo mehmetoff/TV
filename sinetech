@@ -200,28 +200,32 @@ http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Cocuk",TRT Cocuk
+
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuklar İçin",TRT Cocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 
-#EXTINF:-1 tvg-id="EBATVortaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Cocuk",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+#EXTINF:-1 tvg-id="TRTEBAIlkokul.tr" tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Çocuklar İçin",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="http://assets.tvcdn.net/1921ea76-bace-4b4a-9ba9-cba09175d07a.png" group-title="Cocuk",Minika Cocuk
-http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+#EXTINF:-1 tvg-id="TRTEBALise.tr" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Çocuklar İçin",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="http://assets.tvcdn.net/3db397dc-01a9-436f-8de8-68edeba8a1b1.png" group-title="Cocuk",Minika Go
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="https://i.imgur.com/kZxb8Zz.png" group-title="Çocuklar İçin",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Cocuk",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuklar İçin",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Cocuk",Cocuklara Özel TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Çocuklar İçin",Cocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Cocuk",Cizgi Film TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuklar İçin",Cizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
 
+
 ### MUZİK ###
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="Muzik",KRAL - KRAL POP
 http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
@@ -276,6 +280,7 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 
 
 ## KEMAL SUNAL ##
+
 
 #EXTINF:0 tvg-name="Zübük (1980)" group-title="KEMAL SUNAL FILMLERI",Zübük (1980)
 http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/253481.mkv
@@ -428,7 +433,9 @@ http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/252659.mkv
 #EXTINF:0 tvg-name="İnatçı (1988)" group-title="KEMAL SUNAL FILMLERI",İnatçı (1988)
 http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/252675.mkv
 
+
 ## TÜRK FİLMLERİ ##
+
 
 #EXTINF:0 tvg-name="Robinson Crusoe ve Cuma (2015)" group-title="TURK FILMLERI",Robinson Crusoe ve Cuma (2015)
 http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/271787.mkv
@@ -2616,6 +2623,7 @@ http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/252680.mkv
 http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/252681.mkv
 #EXTINF:0 tvg-name="Kumbara #&" group-title="TURK FILMLERI",Kumbara #&
 http://115759.fly66.be:80/movie/CigdemEkinci/aYMXoJ1QMx/116538.mkv
+
 
 ## YABANCI FİLMLER ##
 
