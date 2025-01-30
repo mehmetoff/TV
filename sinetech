@@ -82,7 +82,7 @@ http://stream.tvcdn.net/ulusal/24-tv.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Ulusal",Tele 1
 http://stream.tvcdn.net/ulusal/tele-1.m3u8
 
-#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="B Ulusal",TVNET
+#EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Ulusal",TVNET
 http://stream.tvcdn.net/ulusal/tvnet.m3u8
 
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Ulusal",Flash 
