@@ -258,8 +258,6 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://i.imgur.com/TMTnMI3.png" group-title="Haber",Ekoturk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 
-#EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="Haber",Finans Turk TV 
-https://vdo.digitalbox.xyz:3588/live/finansturktvlive.m3u8
 
 
 # * » TRT « * #
