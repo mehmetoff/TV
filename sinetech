@@ -109,12 +109,6 @@ http://stream.tvcdn.net/ulusal/dha-canli-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8a9bb676-fd2d-47c5-9332-804e2aae533b.jpeg" group-title="Ulusal",Business Channel Turk
 http://stream.tvcdn.net/ulusal/business-channel-turk.m3u8
 
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="Ulusal",CNBC-e
-http://stream.tvcdn.net/ulusal/cnbc-e.m3u8
-
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Ulusal",TRT 2
-http://stream.tvcdn.net/eglence/trt-2.m3u8
-
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Ulusal",a2
 https://c.fulltvizle.com/a2/index.m3u8
 
