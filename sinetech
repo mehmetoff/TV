@@ -1,81 +1,5 @@
 #EXTM3U
 
-
-
-* » A ULUSAL LİST « * #
-
-
-
-#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="A Ulusal",ATV 
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="ATV HD" tvg-name="(TR) ATV 4K+" group-title="A Ulusal",ATV 
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
-
-#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="A Ulusal",ATV 
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="A Ulusal",Star TV
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="A Ulusal",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-name="Fox "tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://gaziantepsabah.com/uploads/haberler/2024/02/1707815076-fox-tv-neden-now-tv-oldu-817x_.jpg?token=7f2508cd78f99260fc0da4481dea7aad"group-title="A Ulusal":http-referrer="":http-user-agent="",Fox
-https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="A Ulusal",Show TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="A Ulusal",TV8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" group-title="A Ulusal",Beyaz TV
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
-
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="A Ulusal",360 TV
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
-
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="A Ulusal",Euro D
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
-
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="A Ulusal",Show Turk
-http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
-
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="A Ulusal",teve2
-http://stream.tvcdn.net/eglence/teve2.m3u8
-
-#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="A Ulusal",TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
-
-#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="A Ulusal",TV 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="A Ulusal",TIVI 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="A Ulusal",Deniz Postası TV
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="A Ulusal",Cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1237020778450817025/A5oEtr15_400x400.png" group-title="A Ulusal",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="A Ulusal",A2TV
-https://c.fulltvizle.com/a2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="A Ulusal",Dizi Film TV
-http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
-
-#EXTINF:-1 tvg-name="Kanal 53"tvg-id=""tvg-logo="https://s1.dmcdn.net/v/W4AVe1c3eeyX2yLHH/x1080"group-title="A Ulusal ":http-referrer="":http-user-agent="",Kanal 53
-https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-name="Rize Türk TV"tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png"group-title=" A Ulusal":http-referrer="":http-user-agent="",Rize Türk TV
-https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-
-
 * » B ULUSAL LİST « * #
 
 
@@ -151,15 +75,6 @@ http://stream.tvcdn.net/ulusal/trt-ulusal.m3u8
 #EXTINF:-1 tvg-id="Aulusal.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="B Ulusal",A
 http://stream.tvcdn.net/ulusal/a-ulusal.m3u8
 
-#EXTINF:-1 tvg-id="TGRTulusal.tr" tvg-logo="http://assets.tvcdn.net/a4303694-1faa-4436-aa0f-c5f3ca2b157a.png" group-title="B Ulusal",TGRT Haber 
-http://stream.tvcdn.net/ulusal/tgrt-ulusal.m3u8
-
-#EXTINF:-1 tvg-id="ulusalturkTV.tr" tvg-logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" group-title="B Ulusal",Haber turk
-http://stream.tvcdn.net/ulusal/ulusalturk.m3u8
-
-#EXTINF:-1 tvg-id="ulusalGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="B Ulusal", Haber-Global
-http://stream.tvcdn.net/ulusal/ulusal-global.m3u8
-
 #EXTINF:-1 tvg-id="ulkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="B Ulusal",ulke TV
 http://stream.tvcdn.net/ulusal/ulke-tv.m3u8
 
@@ -225,6 +140,21 @@ http://stream.tvcdn.net/eglence/tv-4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="B Ulusal",Dizi Film TV
 http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="A Ulusal",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="A Ulusal",Deniz Postası TV
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="A Ulusal",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Kanal 53"tvg-id=""tvg-logo="https://s1.dmcdn.net/v/W4AVe1c3eeyX2yLHH/x1080"group-title="A Ulusal ":http-referrer="":http-user-agent="",Kanal 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Rize Türk TV"tvg-id=""tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png"group-title=" A Ulusal":http-referrer="":http-user-agent="",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
 
 
