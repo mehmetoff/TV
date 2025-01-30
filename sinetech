@@ -4,8 +4,10 @@
 
 * » A ULUSAL LİST « * #
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="A Ulusal",TRT 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="(TR) ATV HD" group-title="A Ulusal",ATV 
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV HD" tvg-name="(TR) ATV 4K+" group-title="A Ulusal",ATV 
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
