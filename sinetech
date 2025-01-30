@@ -89,7 +89,7 @@ http://stream.tvcdn.net/ulusal/ulke-tv.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="B Ulusal",24 TV
 http://stream.tvcdn.net/ulusal/24-tv.m3u8
 
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="Ulusal",Tele 1
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://assets.tvcdn.net/c3a805dd-2d39-47a8-8b49-a8139bdbeeeb.png" group-title="B Ulusal",Tele 1
 http://stream.tvcdn.net/ulusal/tele-1.m3u8
 
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="B Ulusal",TVNET
@@ -122,7 +122,7 @@ http://stream.tvcdn.net/ulusal/business-channel-turk.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr" tvg-logo="http://assets.tvcdn.net/4371c426-66c5-4452-ba3e-439a0718a997.png" group-title="B Ulusal",CNBC-e
 http://stream.tvcdn.net/ulusal/cnbc-e.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Ulusal",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="B Ulusal",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="B Ulusal",a2
@@ -181,12 +181,11 @@ http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="A Ulusal",360 TV
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 
-#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="A Ulusal - Yurt Dısı",Euro D
+#EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="A Ulusal",Euro D
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="A Ulusal - Yurt Dısı",Show Turk
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="A Ulusal",Show Turk
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
-
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="A Ulusal",teve2
 http://stream.tvcdn.net/eglence/teve2.m3u8
@@ -200,7 +199,7 @@ http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9H3DMWz/tivi6.png" group-title="A Ulusal",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="A Ulusal",Deniz Postası TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="A Ulusal",Deniz Postası TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="A Ulusal",Cine 1
