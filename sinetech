@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="github.com/iptv-org/iptv", Alternatif Liste
+https://iptv-org.github.io/iptv/countries/tr.m3u
 
 * »  ULUSAL LİST « * #
 
