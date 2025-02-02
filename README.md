@@ -14,6 +14,14 @@ patron ===> https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/fullL
 
 mehmetcandal ===> https://www.dropbox.com/scl/fi/v2kehgxdx8tzkby03kpht/IPTVSevenler.m3u?rlkey=4sop4kr4o7u9nzm55yfhmkx1w&st=5puawny2&dl=1
 
+ZERK  FİLM DİZİ
+FİLMLER
+https://tinyurl.com/bdz6bhnj
+DİZİLER
+https://tinyurl.com/3eph68rb
+
+BERAT55
+https://www.dropbox.com/scl/fi/6r0mk9fsg27jgcr1m9h4o/M3U.txt?rlkey=768ibf2ty26ximwi49o6w4pg5&st=u9rfjptz&dl=1
 
 https://raw.githubusercontent.com/mehmetoff/TV/refs/heads/main/......
 
