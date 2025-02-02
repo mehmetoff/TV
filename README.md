@@ -22,7 +22,7 @@ https://tinyurl.com/3eph68rb
 BERAT55
 https://www.dropbox.com/scl/fi/6r0mk9fsg27jgcr1m9h4o/M3U.txt?rlkey=768ibf2ty26ximwi49o6w4pg5&st=u9rfjptz&dl=1
 
-https://raw.githubusercontent.com/mehmetoff/TV/refs/heads/main/......
+
 
 
 
