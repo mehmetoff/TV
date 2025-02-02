@@ -6,9 +6,8 @@ https://iptv-org.github.io/iptv/countries/tr.m3u
 
 http://stream.tvcdn.net/lists/tr.m3u
 
-https://bit.ly/sinem3u
-
-https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/refs/heads/main/Kanallar/KekikAkademi.m3u
+kekikakademi kısa link https://bit.ly/sinem3u
+kekikakademi https://raw.githubusercontent.com/keyiflerolsun/IPTV_YenirMi/refs/heads/main/Kanallar/KekikAkademi.m3u
 
 patron ===> https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/fullLink.txt
 
