@@ -31,5 +31,7 @@ http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
  http://908ed7fe9e54.faststreem.org/playlists/uplist/614c67e9efc9a2cd368ac695545b5cc8/playlist.m3u 
 
 
+https://github.com/ipstreet312/freeiptv
+
 
 
