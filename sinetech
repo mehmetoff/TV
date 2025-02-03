@@ -359,7 +359,7 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 # * » TRT « * #
 
 
-#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/TBMM_TV_logo.svg" group-title="TRT",Meclis TV
+#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/320px-TBMM_TV_logo.svg.png" group-title="TRT",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
@@ -396,10 +396,10 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-logo="https://i.imgur.com/MJPoj3j.png" group-title="TRT",TRT Spor Yildiz  
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="TRT",TRT Müzik (720p)
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="TRT",TRT Müzik 
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT türkü" tvg-language="English" tvg-country="USA" tvg-id="TRT_türkü" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg" group-title="TRT",TRT türkü
+#EXTINF:-1 tvg-name="TRT türkü" tvg-language="English" tvg-country="USA" tvg-id="TRT_türkü" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/320px-TRT_T%C3%BCrk%C3%BC_logo.svg.png" group-title="TRT",TRT Türkü Radyo
 https://rd-trtturku.medya.trt.com.tr/master.m3u8
 
 
