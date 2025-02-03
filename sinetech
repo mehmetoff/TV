@@ -35,10 +35,10 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 # ? https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-#EXTINF:-1 tvg-id="starTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",star TV
+#EXTINF:-1 tvg-id="starTV [Kaynak 1]" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",star TV [Kaynak 1]
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
-#EXTINF:-1 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",Star TV
+#EXTINF:-1 tvg-name="Star TV [Kaynak 2]" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",Star TV [Kaynak 2]
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
