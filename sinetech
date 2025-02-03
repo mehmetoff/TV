@@ -398,7 +398,7 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://i.imgur.com/JgUzRH8.png" group-title="TRT",TRT Müzik 
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-name="TRT türkü" tvg-language="English" tvg-country="USA" tvg-id="TRT_türkü" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/320px-TRT_T%C3%BCrk%C3%BC_logo.svg.png" group-title="TRT",TRT Türkü Radyo
+#EXTINF:-1 tvg-id="TRTTürkü.tr" tvg-logo="" group-title="TRT",TRT Türkü radyo 
 https://rd-trtturku.medya.trt.com.tr/master.m3u8
 
 
