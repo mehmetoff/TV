@@ -270,6 +270,11 @@ https://c0.b4c8d3e9f1a2b7c5d43.cfd/yayinbm1.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1150.xyz/
 https://c0.b4c8d3e9f1a2b7c5d43.cfd/yayinbm2.m3u8
 
+#EXTINF:-1 tvg-id="EkolTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Spor",Ekol tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+
+#EXTINF:-1 tvg-id="AsporTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SpoR
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
 
 
 
