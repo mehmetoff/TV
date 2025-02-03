@@ -291,10 +291,10 @@ http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 
 #EXTINF:-1 tvg-name="MinikaGo" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaGo" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="ÇizgiFilm",MinikaGo
-http://stream.tvcdn.net/cocuk-egitim/minika-go.m3u8
+https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3&st=DV2nzSL0cu91nLdtEtUc5g&e=1738661194&ppid=64e56cb1a299c3128b00b1ae198ab428&gdpr=0
 
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_MinikaCocuk" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="ÇizgiFilm",Minika Çocuk
-http://stream.tvcdn.net/cocuk-egitim/minika-cocuk.m3u8
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3&st=aXjKkglfrX0LqiqEngstBw&e=1738661318&ppid=64e56cb1a299c3128b00b1ae198ab428&gdpr=0
 
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
