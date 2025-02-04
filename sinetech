@@ -156,10 +156,7 @@ https://tv100.blutv.com/blutv_tv100_live/live.m3u8
 http://stream.tvcdn.net/haber/tele-1.m3u8
 # ? https://ythls.kekikakademi.org/youtube/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 
-#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Haber",TürkHaber 2
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="THHaberTV.tr" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png" group-title="Haber",TH TÜrk Haber 
+#EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Haber",TH Türk Haber 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://i.imgur.com/TMTnMI3.png" group-title="Haber",Ekoturk
