@@ -107,9 +107,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=a055ca71c43292ea91b1
 #EXTINF:-1 tvg-id="YolTV.tr" tvg-logo="https://www.yoltv.com/wp-content/uploads/2025/02/yol-logo-png.webp" group-title="Ulusal",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
 
-#EXTINF:-1 tvg-id="AkıllıTV.tr" tvg-logo="https://files.sikayetvar.com/lg/cmp/51/5183.png?1522650125" group-title="Ulusal",Akıllı TV
-https://yayin.santraltr.com/hls/akillitv.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
-
 #EXTINF:-1 tvg-name="Kanal 53"tvg-id=""tvg-logo="https://s1.dmcdn.net/v/W4AVe1c3eeyX2yLHH/x1080"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
