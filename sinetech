@@ -181,6 +181,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1738708595/ei/
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 
+#EXTINF:-1 tvg-id="KRT.TV.tr" tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.svg?v=2" group-title="Haber",KRT TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1738709392/ei/MEWiZ_zRIN_ti9oPg_u4-Qk/ip/188.119.21.209/id/Avu7O3hKslA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-u0g3oxu-5tue.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-PaInRT8tKQocfus-BkvTHN3nEG_ZNzkb7RtxYi72FLX4ii1A_TWZHr2b-Mx6szgj4e3i7dAI_r/spc/9kzgDWKpHicDtSqIje-unxAoF4kO5CoiE-8tbZqjyj95r_vQD6jIdCk64m9yfN0k5rkrvyk/vprv/1/playlist_type/DVR/initcwndbps/1405000/met/1738687794,/mh/IF/mm/44/mn/sn-u0g3oxu-5tue/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51355912,51371294/mt/1738687471/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhANHbbB_eJ1QaHk_btaEuT9TCJDXxgFnrf3fuT84PUJ3qAiEA0ZuBHq2nHuZdzZ8jRNwVfAlGy6JGijEpKtwy596Tfeg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhALyfLRZEwcFYuWx8VaYyB8V5K5KwPxDL_IF3s_LRQWo6AiBH4onZjbwuZfH9Znt0YVIkhfeyLWoY3fZU5YL1NaqPGQ%3D%3D/playlist/index.m3u8
+
 
 
 # * » TRT « * #
