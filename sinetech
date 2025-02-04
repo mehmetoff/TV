@@ -181,8 +181,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1738708595/ei/
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 
-#EXTINF:-1 tvg-id="KRT.TV.tr" tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.svg?v=2" group-title="Haber",KRT TV
-https://www.youtube.com/watch?v=Avu7O3hKslA
 
 
 # * » TRT « * #
