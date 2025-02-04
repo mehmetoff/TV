@@ -178,6 +178,8 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="BengüTürk.tr" tvg-logo="https://benguturkcom.teimg.com/benguturk-com/uploads/2024/10/benguturk-logo-light.svg" group-title="Haber",Bengü Türk
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1738708595/ei/E0KiZ7S8Epfj6dsP9qjlwQE/ip/188.119.21.209/id/3JUXQd8_HWA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-u0g3oxu-5tue.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY2Et-NZ8Wxhe7mQwcUMwzuTOQQsDHtqEUETRGO7Og55I6ocY7gZHpXT_wo9WhHEqaspW8yVNxENYCXp/spc/9kzgDQQJns1ufciX-vN7kmVJivWng0rBbjCII4EXQt-OY5OQUm4T4pV9r_UsUl7mSo4ufZg/vprv/1/playlist_type/DVR/initcwndbps/1472500/met/1738686997,/mh/ES/mm/44/mn/sn-u0g3oxu-5tue/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51355912,51371294/mt/1738686512/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgH-D9raW05dXOjWwXlHvChuRKcxNN450qXxnUwkzYxdsCIQD_mpW-mIG_8oGg7aPdIcQcZqhSyCnQ344cZ358y7F-aw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AGluJ3MwRQIgbK24Fevw1BaPWHFPPVHMwdA-nvKn0hpYqZq6QLmT7EUCIQDWO242_Jy71nJjqlvJxC7bH0fREXY_siMgNv8HYYtvcA%3D%3D/playlist/index.m3u8
 
+#EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
+https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
 
 
 
