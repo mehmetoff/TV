@@ -270,6 +270,9 @@ http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/National_Geographic_Türkiye_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
 
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZg7GKGRQD7QG4y0pko3JuiGdBz2MgK99scisMjTv765TXMoLJ3uO5Y7Q&s=10" group-title="Belgesel",Love Nature
+http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/202064
+
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 
