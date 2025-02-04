@@ -222,7 +222,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTTürkü.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_T%C3%BCrk%C3%BC_logo.svg/512px-TRT_T%C3%BCrk%C3%BC_logo.svg.png" group-title="TRT",TRT Türkü radyo 
 https://rd-trtturku.medya.trt.com.tr/master.m3u8
-#EXTVLCOPT:sub-file=https://v.ftcdn.net/04/54/53/32/700_F_454533259_Mqc05TKiJVE7ScIlWVbYF2eYIxan8GWQ_ST.mp4
+#EXTVLCOPT:sub-file=https://cdn.pixabay.com/animation/2024/06/09/21/28/21-28-23-997_512.gif
 #EXTVLCOPT:input-repeat=-1
 
 
