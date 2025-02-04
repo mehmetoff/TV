@@ -129,6 +129,7 @@ https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-b
 
 #EXTINF:-1 tvg-name="CNN Türk [Kynk 1]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk [Kynk 1]
 https://x.canlitvapp.com/cnn/tracks-v1a1/mono.m3u8?token=b3b7902d3cebf63d0350afba760a8bec7dbb0bc9-37ac1825bb14d6fea2eacd9fb4101c9d-1734036179-1734025379
+# ? https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=q26N-po0cX-AoSv2qKucqQ&e=1738676980
 
 #EXTINF:-1 tvg-name="CNN Türk [Kynk 2]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk [Kynk 2]
 https://tv.prectv5.sbs/live/cnnturk.m3u8
