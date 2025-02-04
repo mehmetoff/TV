@@ -167,6 +167,8 @@ http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Haber",TH Türk Haber 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="https://i.imgur.com/TMTnMI3.png" group-title="Haber",Ekoturk
 https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 
