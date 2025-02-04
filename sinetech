@@ -175,6 +175,8 @@ https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 # ? https://ythls.kekikakademi.org/youtube/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 
+#EXTINF:-1 tvg-id="krtHaber.tr" tvg-logo="https://s.krttv.com.tr/assets/web/images/logo.svg?v=2" group-title="Haber",KRT Haber
+http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
@@ -259,9 +261,11 @@ http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17769
 
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png" group-title="Belgesel",HISTORY 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89948
+# ?  http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/784.ts 
 
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Belgesel",NAT GEO WILD 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
+# ? http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/309308.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/National_Geographic_Türkiye_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC 
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
@@ -439,6 +443,14 @@ https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3&st=aX
 #EXTINF:-1 tvg-name="Cartoonito TV" tvg-language="Turkish" tvg-country="TR" tvg-id="CizgiFilm_CartoonitoTV" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/500x500/64f57b42866ac307e484249e" group-title="ÇizgiFilm",Cartoonito TV
 https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 # ? https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
+
+# ? MINIKA GO (http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/670.ts )
+
+# ? MINIKA COCUK ( http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/667.ts )
+
+# ? CARTOONİTO ( http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/701.ts )
+
+
 
 
 
