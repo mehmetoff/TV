@@ -3,25 +3,25 @@
 * »  ULUSAL LİST « * #
 
 
-#EXTINF:-1 tvg-id="ATV [Kynk 1]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv [Kynk 1]
+#EXTINF:-1 tvg-id="ATV [Kynk 1]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv ➾[Kynk 1]
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 # ? https://c.fulltvizle.com/aytv/index.m3u8
 # ? http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:-1 tvg-id="ATV [Kynk 2]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv [Kynk 2]
+#EXTINF:-1 tvg-id="ATV [Kynk 2]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv ➾[Kynk 2]
 http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
-#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV [Kynk 1]
+#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 1]
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17594
 
-#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV [Kynk 2]
+#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 2]
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=kM_3A4Rv22XBfT5PaRSyZw&e=1738774146
 # ? https://c.fulltvizle.com/fox/index.m3u8
 
-#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV [Kynk 3]
+#EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 3]
 # ? https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 https://x.canlitvapp.com/fox/tracks-v1a1/mono.m3u8
 
@@ -36,10 +36,10 @@ http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 http://stream.tvcdn.net/ulusal/tv8.m3u8
 # ? https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
-#EXTINF:-1 tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",star TV [Kynk 1]
+#EXTINF:-1 tvg-id="Star.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",star TV ➾[Kynk 1]
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
-#EXTINF:-1 tvg-name="Star.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",Star TV [Kynk 2]
+#EXTINF:-1 tvg-name="Star.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_StarTV" tvg-logo="https://tvakisi.com/public/resimler/kanallar/star-tv-886.webp" group-title="Ulusal",Star TV ➾[Kynk 2]
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
@@ -460,57 +460,6 @@ https://ythls.kekikakademi.org/youtube/channel/UCai9a-7GjCkWiaV7cCkIMJg.m3u8
 # ? MINIKA COCUK ( http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/667.ts )
 
 # ?  ➾ CARTOONİTO ( http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/701.ts )
-
-
-
-# * » SİNEMA « * #
-
-
-
-#EXTINF:-1 tvg-name="Sinema TV 1001"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7eSiclb5WaW3V6gOBkoVZv0wFMXMJTT32jpeXGeQeh-VrnAelNm3G2HSY&s=10"group-title="Sinema":http-referrer="":http-user-agent="",Sinema TV 1001
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432476
-#EXTINF:-1  tvg-name="TR: Sinema 1001" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="Sinema",TR: Sinema 1001
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1789
-
-#EXTINF:-1  tvg-name="TR: Sinema 1002" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="Sinema",Sinema 1002
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/76722
-
-#EXTINF:-1 tvg-name="Sinema TV 2"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWmJDjoHdPkD8U5PAt1aEEzbeGnkrQk7k7w&s"group-title="Sinema":http-referrer="":http-user-agent="",Sinema TV 2
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432478
-#EXTINF:-1  tvg-name="TR: Sinema 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" group-title="Sinema",Sinema 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1774
-
-#EXTINF:-1 tvg-name="Sinema TV Aile"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png"group-title="Sinema":http-referrer="":http-user-agent="",Sinema TV Aile
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432480
-#EXTINF:-1  tvg-name="TR: Sinema Aile" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="Sinema", Sinema Aile
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1794
-#EXTINF:-1  tvg-name="TR: Sinema Aile 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40c9ccd31d19fc0376a1de2b80a9d85d.png" group-title="Sinema",Sinema Aile 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/165582
-
-#EXTINF:-1 tvg-name="Sinema TV Komedi 2"tvg-id="https://www.open-epg.com/files/turkeypremium2.xml"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png"group-title=" Sinema":http-referrer="":http-user-agent="",Sinema TV Komedi 2
-https://tv.arectv11.sbs/live/sinemaaile2.m3u8
-#EXTINF:-1  tvg-name="TR: Sinema Komedi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="Sinema",Sinema Komedi
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1795
-#EXTINF:-1  tvg-name="TR: Sinema Komedi 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="Sinema",Sinema Komedi 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/43541
-
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema",Sinema TV Aksiyon
-http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136169
-#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema",Sinema TV Aksiyon 2
-http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136170
-#EXTINF:-1  tvg-name="TR: Sinema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="Sinema",Sinema TV
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1790
-
-#EXTINF:-1  tvg-name="TR: Sinema Aksiyon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="Sinema",Sinema Aksiyon
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1793
-#EXTINF:-1  tvg-name="TR: Sinema Aksiyon 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="Sinema",Sinema Aksiyon 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1772
-
-#EXTINF:-1  tvg-name="TR: Sinema Yerli" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="Sinema",Sinema Yerli
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1791
-#EXTINF:-1  tvg-name="TR: Sinema Yerli 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="Sinema",Sinema Yerli 2
-http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/163186
-
 
 
 
