@@ -482,7 +482,7 @@ https://tv.arectv11.sbs/live/sinemaaile2.m3u8
 #EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema",Sinema TV Aksiyon
 http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136169
 
-#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="Sinema TV Aksiyon 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="Sinema",Sinema TV Aksiyon 2
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="Sinema TV Aksiyon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAcm0fLwFlXa7YvhTphxCc5UoJWWDhkQ4IA&s" group-title="Sinema",Sinema TV Aksiyon 2
 http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/136170
 
 
