@@ -108,6 +108,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8?hash=a055ca71c43292ea91b1
 #EXTINF:-1 tvg-id="YolTV.tr" tvg-logo="https://www.yoltv.com/wp-content/uploads/2025/02/yol-logo-png.webp" group-title="Ulusal",Yol TV
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8?hash=a055ca71c43292ea91b15da3a620d52a
 
+#EXTINF:-1 tvg-name="Life TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Genel_LifeTV" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="Ulusal",Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Kanal 53"tvg-id=""tvg-logo="https://s1.dmcdn.net/v/W4AVe1c3eeyX2yLHH/x1080"group-title="Ulusal":http-referrer="":http-user-agent="",Kanal 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
@@ -180,6 +183,9 @@ http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
 https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
+
+#EXTINF:-1 tvg-id="EkolTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Haber",Ekol tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
 
 
@@ -300,9 +306,6 @@ http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 
 #EXTINF:-1 tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/13687983.png" group-title="Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="EkolTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Spor",Ekol tv
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
 #EXTINF:-1 tvg-id="AsporTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e9/A_Spor_logosu.png" group-title="Spor",A SpoR
 https://tgn.bozztv.com/dvrfl05/gin-aspor/tracks-v1a1/mono.m3u8
