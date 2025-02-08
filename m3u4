@@ -1,9 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="TRT 1"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Ulusal":http-referrer="":http-user-agent="",now
-http://bpars230.dynuddns.com:8080/live/play/WlZkMFR6QjNSSGN3WW5CcFZUZFJaa1ZZVFZOMFQyaEtja2xtWkV0Q2JYTXhTVFpsV2tjM1RUTTFORDA9/1855
-#EXTINF:-1 tvg-name="now"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Ulusal":http-referrer="":http-user-agent="",now
-http://bpars79.dynuddns.com:8880/live/play/ZWpSM1FrWm5LMHhYUjFsblIyaEZTRmRPWW0wM1FXUlFXRVpuYUdoTU1XcFNVa0Z4TkRWWWR6aHBNRDA9/1856
+http://154.6.99.253:8080/live/play/TnpSRVdsbHhkM0ZDWW0xR2MxbHdOVVJQWWs0ME5tVm5VWHBqVG04d01sSlpkVVZwT0UxWGEzZGpSVDA9/1957
+
 
 #EXTINF:-1 tvg-name="now"tvg-id="TRT_1"tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png"group-title="Ulusal":http-referrer="":http-user-agent="",D
 http://bpars79.dynuddns.com:8880/live/play/UjBNd1RtSlpkbWwyYmxoRk5GcDRMMlJxWkhGTmRsZFBiWEJhUkRWMlVEVjVZbFZ2Y1VKa1RuRTRkejA9/1851
