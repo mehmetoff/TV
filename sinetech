@@ -549,6 +549,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 
 
 #EXTM3U
+#EXTM3U
 
  
 #EXTINF:-1 group-title="Sinema-SINEMA",  SINEMA Aile 1 = 
@@ -730,29 +731,29 @@ http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/515135
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/515136
 #EXTINF:-1 group-title="Sinema-CINEMAXIMUM",  CINEMAXIMUM 10 HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/515137
-#EXTINF:-1 group-title="Sinema",   Arenabox-Action 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Action 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431813
 #EXTINF:-1 group-title="Sinema-Arenabox",  Arenabox-BilimKurgu 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431816
 #EXTINF:-1 group-title="Sinema-Arenabox",  Arenabox-Fantastik 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431818
-#EXTINF:-1 group-title="Sinema",   Arenabox-Macera 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Macera 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431823
-#EXTINF:-1 group-title="Sinema",   Arenabox-Vizyon 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Vizyon 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431824
-#EXTINF:-1 group-title="Sinema",   Arenabox-Yerli 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Yerli 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431825
-#EXTINF:-1 group-title="Sinema",   Arenabox-Dram 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Dram 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431817
-#EXTINF:-1 group-title="Sinema",   Arenabox-Gerilim 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Gerilim 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431819
-#EXTINF:-1 group-title="Sinema",   Arenabox-Komedi 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Komedi 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431821
-#EXTINF:-1 group-title="Sinema",   Arenabox-Korku 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Korku 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431822
 #EXTINF:-1 group-title="Sinema-Arenabox",  Arenabox-KemalSunal 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431820
-#EXTINF:-1 group-title="Sinema",   Arenabox-Yeşilçam 
+#EXTINF:-1 group-title="Sinema-Arenabox",   Arenabox"-Yeşilçam 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/431826
 #EXTINF:-1 group-title="Sinema-MAX",  MAX TURK HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/188940
@@ -784,34 +785,34 @@ http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/299474
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/299478
 #EXTINF:-1 group-title="Sinema",  ACTION HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/198669
-#EXTINF:-1 group-title="Sinema",  SL PREMIUM HD 
+#EXTINF:-1 group-title="Sinema-SL",  SL PREMIUM HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/198670
-#EXTINF:-1 group-title="Sinema",  SL GOLD HD 
+#EXTINF:-1 group-title="Sinema-SL",  SL GOLD HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/198671
-#EXTINF:-1 group-title="Sinema",  SL KOMEDI HD 
+#EXTINF:-1 group-title="Sinema-SL",  SL KOMEDI HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/198672
-#EXTINF:-1 group-title="Sinema",  SL TV LOCA HD 
+#EXTINF:-1 group-title="Sinema-SL",  SL TV LOCA HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/217842
-#EXTINF:-1 group-title="Sinema",  SL SINEMA TURK HD 
+#EXTINF:-1 group-title="Sinema-SL",  SL SINEMA TURK HD 
 http://ip55.ip-51-89-103.eu:8080/ismail37/Gsq2emcNA37v/198668
 
-#EXTINF:-1 group-title="Sinema", SINEMA TV HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA TV HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14270
-#EXTINF:-1 group-title="Sinema", SINEMA TV 2 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA TV 2 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14271
-#EXTINF:-1 group-title="Sinema", SINEMA AKSIYON 2 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA AKSIYON 2 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14273
-#EXTINF:-1 group-title="Sinema", SINEMA AILE HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA AILE HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14274
-#EXTINF:-1 group-title="Sinema", SINEMA AILE 2 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA AILE 2 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14275
-#EXTINF:-1 group-title="Sinema", SINEMA KOMEDI HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA KOMEDI HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14276
-#EXTINF:-1 group-title="Sinema", SINEMA YERLI  1 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA YERLI  1 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14278
-#EXTINF:-1 group-title="Sinema", SINEMA YERLI 2 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA YERLI 2 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14279
-#EXTINF:-1 group-title="Sinema", SINEMA TV 1002 HD
+#EXTINF:-1 group-title="Sinema-160", SINEMA TV 1002 HD
 http://160.19.94.16:8080/live:9e5620c5c6762694/LrTFVxUrEamH/14282
 
 
