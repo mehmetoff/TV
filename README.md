@@ -24,6 +24,8 @@ https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Diziler.m3u
 BERAT55
 https://www.dropbox.com/scl/fi/6r0mk9fsg27jgcr1m9h4o/M3U.txt?rlkey=768ibf2ty26ximwi49o6w4pg5&st=u9rfjptz&dl=1
 
+Bekx İPTV https://tinyurl.com/3ky78jf8
+
 http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
 
 
