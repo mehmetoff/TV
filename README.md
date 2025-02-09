@@ -33,5 +33,7 @@ http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
 
 https://github.com/ipstreet312/freeiptv
 
+Syndraxic 
+https://m3u.ch/yEeG0Kq.m3u
 
 
