@@ -195,7 +195,7 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
-https://internettv.guventechnology.com:19360/flashhabertv/flashhabertv.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 #EXTINF:-1 tvg-id="EkolTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Ekol_TV_Kanal%C4%B1n%C4%B1n_Logosu.png" group-title="Haber",Ekol tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
@@ -206,7 +206,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="TRT",Meclis TV
+#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="https://upload.wikimedia.org/wikipedia/commons/c/c5/TBMM_TV_logo.svg" group-title="TRT",Meclis TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
@@ -290,7 +290,7 @@ http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZg7GKGRQD7QG4y0pko3JuiGdBz2MgK99scisMjTv765TXMoLJ3uO5Y7Q&s=10" group-title="Belgesel",Love Nature
-http://265.purstream.net:80/Murat_polatli/k5LnpQC94w/202064
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432398
 
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
