@@ -145,7 +145,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 # ? https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
 
-#EXTINF:-1 tvg-name="Haber Türk [Kaynak 2]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk [Kynk 2]
+#EXTINF:-1 tvg-name="Haber Türk [Kynk 2]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_HaberTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bf0c866ac331e0feb216" group-title="Haber",Haber Türk [Kynk 2]
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=64e56cb1a299c3128b00b1ae198ab428
 
 #EXTINF:-1 tvg-name="CNN Türk [Kynk 1]" tvg-language="Turkish" tvg-country="TR" tvg-id="Haber_CNNTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk [Kynk 1]
