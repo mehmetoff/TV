@@ -29,6 +29,10 @@ Bekx İPTV https://tinyurl.com/3ky78jf8
 http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
 
 
+http://efsanetvplus.xyz:8080/get.php?username=hkn1809&password=hkn11&type=m3u&output=ts
+
+
+
 
  http://908ed7fe9e54.faststreem.org/playlists/uplist/614c67e9efc9a2cd368ac695545b5cc8/playlist.m3u 
 
