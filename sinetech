@@ -191,7 +191,7 @@ http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 # ? https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
-#EXTINF:-1 tvg-id="krtHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/KRT_TV_logosu.png" group-title="Haber",KRT Haber
+#EXTINF:-1 tvg-id="krtHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/KRT_TV_logosu.png?20230514111513" group-title="Haber",KRT Haber
 http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
@@ -290,7 +290,7 @@ http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
 
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZg7GKGRQD7QG4y0pko3JuiGdBz2MgK99scisMjTv765TXMoLJ3uO5Y7Q&s=10" group-title="Belgesel",Love Nature
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432398
+http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=481278&extension=ts
 
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
