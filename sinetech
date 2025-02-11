@@ -20,12 +20,12 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17594
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 2]
-http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/6276
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/514
 # ? https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 3]
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-
+# ? http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
 
 #EXTINF:-1 tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
@@ -537,8 +537,14 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-name="gülşah film"tvg-id="gülşah film"tvg-logo="https://i.ytimg.com/vi/PTp6hmibGSc/hqdefault.jpg"group-title="Gülşah Film ":http-referrer="":http-user-agent="",kemal sunal filmleri ytb canlı
-https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
+#EXTINF:-1 group-title="➾Yeşilçam⚡️",Yeşilçam TV HD
+http://ucanadamsabri.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE5NTI4MzU3MzgzMTU5OWY0OWIyZjc=
+#EXTINF:-1 group-title="➾Yeşilçam⚡️",Kemal Sunal HD
+https://deathless-ulusal-kanallar.tiiny.io/?url=https://tv.canlitv.vip/saban-tv
+#EXTINF:-1 group-title="➾Yeşilçam⚡️",Kemal Sunal TV 2 HD
+http://ucanadamsabri.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyNzU0NDYxOTdhZmI5ZjRlNjAyNzc=
+#EXTINF:-1 group-title="➾Yeşilçam⚡️",Kemal Sunal TV 3 HD
+http://ucanadamsabri.duckdns.org/DeaTHLesS/freeiptv/king.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEwNDc1MjUxNjgzZTQzYTRiYTNlOGM=
 
 
 
@@ -547,7 +553,26 @@ https://ythls.kekikakademi.org/youtube/channel/UCulg-mlXf314L1pemPqCVng.m3u8
 # * » SİNEMA « * #
 
 
-
+#EXTINF:-1 tvg-name="TR - SINEMA TV YERLI HD"tvg-id="sinemayerli.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/sinema--yerli.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV YERLI HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82454
+#EXTINF:-1 tvg-name="TR - SINEMA TV KOMEDI HD"tvg-id="sinemakomedihd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/komedi.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV KOMEDI HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82456
+#EXTINF:-1 tvg-name="TR - SINEMA TV HD"tvg-id="sinematvhd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/SINEMATV-GRI.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82458
+#EXTINF:-1 tvg-name="TR - SINEMA TV AILE HD"tvg-id="sinemaailehd.tr"tvg-logo="http://go4.pw/TURKIYE/SINEMA-AILE.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV AILE HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82460
+#EXTINF:-1 tvg-name="TR - SINEMA TV AILE 2 HD"tvg-id="sinemaaile2hd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/komedi.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV AILE 2 HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/82461
+#EXTINF:-1 tvg-name="TR - SINEMA TV 1002 HD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/sinema-1002.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV 1002 HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/172777
+#EXTINF:-1 tvg-name="TR - Sinema 1001 FHD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 1001.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 1001 FHD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/1099469
+#EXTINF:-1 tvg-name="TR - SiNEMA TV AKSiYON HD"tvg-id=""tvg-logo="http://go4.pw/ASIA/TURKEY/sinemaaksiyon_ikon.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SiNEMA TV AKSiYON HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/172778
+#EXTINF:-1 tvg-name="TR - Sinema 2 FHD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 2.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 2 FHD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/1099435
+#EXTINF:-1 tvg-name="TR - Sinema 2 HD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 2.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 2 HD
+http://bd33.xyz:80/BAP6MJG/TQRZ058/1099436
 
 
 
