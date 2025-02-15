@@ -28,6 +28,11 @@ Bekx İPTV https://tinyurl.com/3ky78jf8
 
 SinetechÜmit https://tinyurl.com/UmitTR
 
+Syndraxic 
+https://m3u.ch/yEeG0Kq.m3u
+
+MyWay https://surl.be/ozlem
+
 
 http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
 
@@ -42,9 +47,6 @@ http://efsanetvplus.xyz:8080/get.php?username=hkn1809&password=hkn11&type=m3u&ou
 
 https://github.com/ipstreet312/freeiptv
 
-Syndraxic 
-https://m3u.ch/yEeG0Kq.m3u
 
-MyWay https://surl.be/ozlem
 
 
