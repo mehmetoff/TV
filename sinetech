@@ -24,8 +24,7 @@ http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/514
 # ? https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 3]
-https://b.fulltvizle.com/fox/index.m3u8
-# ? http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
+http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 4]
 http://31.222.206.98/8820/tracks-v1a1/mono.ts.m3u8?token=test
