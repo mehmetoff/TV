@@ -543,28 +543,30 @@ https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u
 
 # * » SİNEMA « * #
 
-
-#EXTINF:-1 tvg-name="TR - SINEMA TV YERLI HD"tvg-id="sinemayerli.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/sinema--yerli.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV YERLI HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82454
-#EXTINF:-1 tvg-name="TR - SINEMA TV KOMEDI HD"tvg-id="sinemakomedihd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/komedi.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV KOMEDI HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82456
-#EXTINF:-1 tvg-name="TR - SINEMA TV HD"tvg-id="sinematvhd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/SINEMATV-GRI.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82458
-#EXTINF:-1 tvg-name="TR - SINEMA TV AILE HD"tvg-id="sinemaailehd.tr"tvg-logo="http://go4.pw/TURKIYE/SINEMA-AILE.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV AILE HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82460
-#EXTINF:-1 tvg-name="TR - SINEMA TV AILE 2 HD"tvg-id="sinemaaile2hd.tr"tvg-logo="http://go4.pw/ASIA/TURKEY/komedi.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV AILE 2 HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/82461
-#EXTINF:-1 tvg-name="TR - SINEMA TV 1002 HD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/sinema-1002.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SINEMA TV 1002 HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/172777
-#EXTINF:-1 tvg-name="TR - Sinema 1001 FHD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 1001.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 1001 FHD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/1099469
-#EXTINF:-1 tvg-name="TR - SiNEMA TV AKSiYON HD"tvg-id=""tvg-logo="http://go4.pw/ASIA/TURKEY/sinemaaksiyon_ikon.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - SiNEMA TV AKSiYON HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/172778
-#EXTINF:-1 tvg-name="TR - Sinema 2 FHD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 2.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 2 FHD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/1099435
-#EXTINF:-1 tvg-name="TR - Sinema 2 HD"tvg-id=""tvg-logo="http://go4.pw/TURKIYE/Sinema 2.png"group-title="➾Sinema":http-referrer="":http-user-agent="",TR - Sinema 2 HD
-http://bd33.xyz:80/BAP6MJG/TQRZ058/1099436
-
+#EXTINF:-1  tvg-name="TR: Sinema 1001" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="Turkey ➾ Sinema",TR: Sinema 1001
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1789
+#EXTINF:-1  tvg-name="TR: Sinema 1002" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="Turkey ➾ Sinema",TR: Sinema 1002
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/76722
+#EXTINF:-1  tvg-name="TR: Sinema 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" group-title="Turkey ➾ Sinema",TR: Sinema 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1774
+#EXTINF:-1  tvg-name="TR: Sinema Aile" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="Turkey ➾ Sinema",TR: Sinema Aile
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1794
+#EXTINF:-1  tvg-name="TR: Sinema Aile 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40c9ccd31d19fc0376a1de2b80a9d85d.png" group-title="Turkey ➾ Sinema",TR: Sinema Aile 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/165582
+#EXTINF:-1  tvg-name="TR: Sinema Aksiyon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="Turkey ➾ Sinema",TR: Sinema Aksiyon
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1793
+#EXTINF:-1  tvg-name="TR: Sinema Aksiyon 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="Turkey ➾ Sinema",TR: Sinema Aksiyon 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1772
+#EXTINF:-1  tvg-name="TR: Sinema Komedi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="Turkey ➾ Sinema",TR: Sinema Komedi
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1795
+#EXTINF:-1  tvg-name="TR: Sinema Komedi 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="Turkey ➾ Sinema",TR: Sinema Komedi 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/43541
+#EXTINF:-1  tvg-name="TR: Sinema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="Turkey ➾ Sinema",TR: Sinema TV
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1790
+#EXTINF:-1  tvg-name="TR: Sinema Yerli" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="Turkey ➾ Sinema",TR: Sinema Yerli
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/1791
+#EXTINF:-1  tvg-name="TR: Sinema Yerli 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="Turkey ➾ Sinema",TR: Sinema Yerli 2
+http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/163186
 
 
 
