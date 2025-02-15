@@ -26,6 +26,9 @@ https://www.dropbox.com/scl/fi/6r0mk9fsg27jgcr1m9h4o/M3U.txt?rlkey=768ibf2ty26xi
 
 Bekx İPTV https://tinyurl.com/3ky78jf8
 
+SinetechÜmit https://tinyurl.com/UmitTR
+
+
 http://tr-17.cdn.zerocdn.com/DeaTHLesS.m3u
 
 
