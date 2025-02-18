@@ -270,32 +270,8 @@ http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Belgesel",Tarih TV
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" VIASAT HISTORY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" group-title="Belgesel", VIASAT HISTORY 
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17779
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Belgesel",BBC EARTH 
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17764
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL " tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/69/Discovery_HD_logo.PNG" group-title="Belgesel",DISCOVERY CHANNEL
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17769
-
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png" group-title="Belgesel",HISTORY 
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/89948
-# ?  http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/784.ts 
-
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Belgesel",NAT GEO WILD 
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17775
-# ? http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/309308.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/National_Geographic_Türkiye_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC 
-http://vip84.fritzinet.com:80/nova/FST2aPPpyh/17774
-
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZg7GKGRQD7QG4y0pko3JuiGdBz2MgK99scisMjTv765TXMoLJ3uO5Y7Q&s=10" group-title="Belgesel",Love Nature
-http://tv.psmarters.xyz:8080/play/live.php?mac=00:1A:79:07:C8:CF&stream=481278&extension=ts
 
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
@@ -311,8 +287,6 @@ http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-
-
 
 
 
