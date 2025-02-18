@@ -63,7 +63,8 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Ulusal",a2
-https://c.fulltvizle.com/a2/index.m3u8
+https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758&st=aaLW2MmwbUPJP_5qAxnY4g&e=1739912515&ppid=64e56cb1a299c3128b00b1ae198ab428&gdpr=0
+# ? https://c.fulltvizle.com/a2/index.m3u8
 
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Ulusal",teve2
 http://stream.tvcdn.net/eglence/teve2.m3u8
