@@ -195,7 +195,8 @@ http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
 # ? https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 
 #EXTINF:-1 tvg-id="krtHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/KRT_TV_logosu.png?20230514111513" group-title="Haber",KRT Haber
-http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
+https://tgn.bozztv.com/trn03/gt-krttv/tracks-v1a1/mono.m3u8
+# ? http://rockip.eu:80/live/hurriyetgokcimen/04.11.2021/38461.ts
 
 #EXTINF:-1 tvg-id="FlashHaber.tr" tvg-logo="https://flashhabertv.com.tr/assets/img/flashhabertv_logo169-88.png" group-title="Haber",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
