@@ -17,20 +17,16 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 1]
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=AJKAtkVSDCwrJtPiHCxd4A&e=1739880813
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=lsxChjO3S06DHc3aCMg7YQ&e=1739960314
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 2]
 https://c.fulltvizle.com/fox/index.m3u8
-# ? http://aflaxtv.xyz:8080/mrhyena10/0ec929873f/514
-
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 3]
 http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 4]
-http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432330
-# ? https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-# ? https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=GBr0ayG2EDqGfzB7z5nT3Q&e=1739377657
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="Show TV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
