@@ -17,10 +17,10 @@ http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 1]
-http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/27.ts
+https://c.fulltvizle.com/fox/index.m3u8
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 2]
-https://c.fulltvizle.com/fox/index.m3u8
+http://tinyursunx5.xyz:80/live/semsen554/armaka4z4/27.ts
 
 #EXTINF:-1 tvg-name="NOW.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Now_tv" tvg-logo="http://logos.fixserver.xyz/Logo/TR/TRORIGINALLOGO/now-tr.png" group-title="Ulusal",Now TV ➾[Kynk 3]
 http://smrtcn2803.xyz:8080/hrcmrestream/yaH2wP2Jxb9S/358052
